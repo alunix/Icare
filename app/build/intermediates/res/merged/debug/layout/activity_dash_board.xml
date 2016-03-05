@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bk"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context="com.warriors.group.icare.DashBoardActivity">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#246810"
+        android:elevation="4dp"
+        android:minHeight="?attr/actionBarSize"
+        android:transitionName="actionBar"
+        />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/image_view_background"
+            android:layout_width="360px"
+            android:layout_height="360px">
+            <ImageView
+                android:layout_gravity="center"
+                android:foregroundGravity="center"
+                android:id="@+id/dashBoardProfilePicIV"
+                android:layout_width="338px"
+                android:scaleType="fitXY"
+                android:adjustViewBounds="false"
+                android:layout_height="338px" />
+        </LinearLayout>
+        <TextView
+            android:layout_marginTop="5dp"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="30sp"
+            android:id="@+id/dashBoardNameTV"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:hint="Name"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:id="@+id/dashBoardGenderTV"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:hint="Gender"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:id="@+id/dashBoardAgeTV"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:hint="Age"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:id="@+id/dashBoardBloodGroupTV"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:hint="Blood Group"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:id="@+id/dashBoardBirthDateTV"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:hint="Date of Birth"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:id="@+id/dashBoardDiseaseTV"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:hint="major Disease"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:id="@+id/dashBoardHeightTV"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:hint="Height"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:id="@+id/dashBoardWeightTV"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:hint="Weight"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:onClick="onClickDashEmail"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:id="@+id/dashBoardEmailTV"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:hint="Email"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:onClick="onClickDashCall"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:id="@+id/dashBoardMobileTV"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:hint="Mobile"
+            android:layout_height="wrap_content" />
+
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

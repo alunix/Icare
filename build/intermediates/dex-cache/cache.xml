@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_8b8efc1f14e1c4b74825ca0dfd567ec4c749bf50.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_deab55c03d3a3c7e4d1c078296d974ebdcbb1e46.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_ef73ee9339b5b0ed5f70a4d5a71ced3ea1c21bb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_96c5e56cf30616f158ffd06f7314ae9150d6584a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.4.0_ace08f0b357976c099ac067d7f1b30a0d0e274e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.4.0_5610d73379eb21edac28c7669b3e1839a4f24430.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_1ed2d75af40351c944ebc6a620afa2e49e563a1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_1195b813c8a230be5cf6f9b7acbb7b474e34b6dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_95df800d8a646750de11676cd9adf686eb01a8e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_4986f631852907de8a3605bae80305bed1f5b5dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_8f6dbe9b1458531da8c356ed76b5bad2cc467657.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.4.0_af7ea4b202ae8b21140da2d8602789371f78afd8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-8.4.0_e7e3285f5ceca4dcfa913c66ccef3d9fce4eea97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_179797673f16d21f74ffb51c282270e36f9663e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.4.0_afc6e43d5f7e7e928d67bdb75af2c28ff2925c86.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.4.0_4d6b8778cff4d3e1d6667c9227bb22af680e0812.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.4.0_21bbae96d33550994d0c41556769a5abf5692e98.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_3f068280d50e6673cbc214e76233bed1b0528ffe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.mikepenz\materialize\0.8.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2ffa3c442b4c6727a6c797daee4cbf49212afbbf">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.mikepenz-materialize-0.8.5_b32ab4ada80978b7d651ec4d08da66ccf8b67e80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_4999388a90ccbfff8c3e83e615e3865ba6620439.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_fabb59b7ca1ccc8b995132412d65618f65b2dc17.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.mikepenz\fastadapter\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed2b7b00d44ff8e130235101acebc8b6e78ff48f">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.mikepenz-fastadapter-1.2.1_0697aec675ad311228bfd983211f70dd79052b00.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_9aebc5a36c9ea9e2ce622deee807fb37322e200a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.4.0_6539709307d07cbfeec82774b37d915648123153.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_d7a3a0d51e739cecff0011439d5f73eca7bba62f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_64cbb52aa094696a41b45a31c5cb5306a925df5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.4.0_de1c9792869a7577d624e2a55414d1138e878150.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.8\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93e12ffa27e468e78d703173853ae71688028628">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.mikepenz-iconics-core-2.5.8_5fb5c242aa5d4ca9cf9b68877598e4aa1063fe64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_503ae040331e5e4f2611644c4c5c4dc846117809.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.4.0_68b10b635846fab041d668c8e84ab34aee61482b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.4.0_65869a40d899e13414486b2b9f0f07a521af81d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_294f9190dc22088b648ceff0295941bde9176f97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.4.0_01859f4c327e00e50f5bd2a23ccd34c79274ab9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.4.0_100d334d8f961b0f8c3bece269837df3ef884d56.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_a5cd90a480b1b548f568d7123125991d2b382653.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\5.0.9\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9f96606d97fd9c3677e4a21226b6ebf1f9acd929">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.mikepenz-materialdrawer-5.0.9_5ea6feecc72c797d2bba9dedd92119dc52e21a1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.4.0_d7d6205219568276300467173d07ac50e8c29d15.jar" />
+    </item>
+    <item
+        jar="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Rubayet\Downloads\Compressed\Icare\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_bc0f097d7031d5a4d13b5ad374f64988e56d5961.jar" />
+    </item>
+
+</items>
