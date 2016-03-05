@@ -1595,6 +1595,45 @@ public class DataStorage {
 
 
 
+    public ArrayList<BloodPressureModel> getBloodPressureByProfileId(String profileID) {
+
+        ArrayList<BloodPressureModel> bloodPressureModels = new ArrayList<>();
+
+        this.dbOpen();
+
+        String selectQuery = "SELECT  * FROM " + DBHelper.TABLE_NAME_BLOOD_PRESSURE + " WHERE " +
+                DBHelper.BLOOD_PRESSURE_COL_PERSON_ID + "='" + profileID + "'  AND "+
+                DBHelper.COL_FLAG + "='A'" + " order by "+ DBHelper.BLOOD_PRESSURE_COL_DATE + ", "+ DBHelper.BLOOD_PRESSURE_COL_TIME + " desc";
+
+        Cursor cursor = database.rawQuery(selectQuery, null);
+        if (cursor!=null && cursor.getCount()>0){
+
+            cursor.moveToFirst();
+
+            for (int i=0; i<cursor.getCount(); i++){
+                int bpId = cursor.getInt(cursor.getColumnIndex(DBHelper.BLOOD_PRESSURE_COL_ID));
+                String bpDate = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_PRESSURE_COL_DATE));
+                String bpTime = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_PRESSURE_COL_TIME));
+                String bpSBP = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_PRESSURE_COL_SBP));
+                String bpDBP = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_PRESSURE_COL_DBP));
+                String bpBPM = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_PRESSURE_COL_BPM));
+                String bpNote = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_PRESSURE_COL_NOTE));
+                String flag = cursor.getString(cursor.getColumnIndex(DBHelper.COL_FLAG));
+                String personId=cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_PRESSURE_COL_PERSON_ID));
+
+                BloodPressureModel pressureModel = new BloodPressureModel(bpId,bpDate,bpTime,bpSBP,bpDBP,bpBPM,bpNote,flag,personId);
+                bloodPressureModels.add(pressureModel);
+                cursor.moveToNext();
+            }
+        }
+        database.close();
+        this.dbClose();
+        return bloodPressureModels;
+    }
+
+
+
+
 //------------------------------------------------------------------------------------------------//
 
 

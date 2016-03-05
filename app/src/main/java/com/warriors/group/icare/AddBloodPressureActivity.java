@@ -76,7 +76,6 @@ public class AddBloodPressureActivity extends AppCompatActivity implements View.
             addBPNewBTN.setVisibility(View.INVISIBLE);
         }
 
-
     }
 
 
@@ -162,7 +161,7 @@ public class AddBloodPressureActivity extends AppCompatActivity implements View.
 
             String flag = "A";
             String bpDate = addBPDateET.getText().toString();
-            String bpTime=addBPDateET.getText().toString();
+            String bpTime=addBPTimeET.getText().toString();
             String bpSBP = addBPSBPET.getText().toString();
             String bpDBP = addBPDBPET.getText().toString();
             String bpBPM = addBPBPMET.getText().toString();
