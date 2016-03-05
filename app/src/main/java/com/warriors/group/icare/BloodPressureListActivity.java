@@ -8,7 +8,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class BloodPressureListActivity extends AppCompatActivity {
-
+    SharedPreferences preferences;
+    SharedPreferences preferences1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,13 +36,13 @@ public class BloodPressureListActivity extends AppCompatActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.add_blood_pressure_menu) {
-//            preferences1 = getBaseContext().getSharedPreferences("diet_id_update", MODE_PRIVATE);
-//            SharedPreferences.Editor editor1 = preferences1.edit();
-//            editor1.putString("diet_id_update", "");
-//            editor1.apply();
-//            editor1.commit();
-//            Intent intent=new Intent(DietListActivity.this,AddDietActivity.class);
-//            startActivity(intent);
+            preferences1 = getBaseContext().getSharedPreferences("blood_pressure_id_update", MODE_PRIVATE);
+            SharedPreferences.Editor editor1 = preferences1.edit();
+            editor1.putString("blood_pressure_id_update", "");
+            editor1.apply();
+            editor1.commit();
+            Intent intent=new Intent(BloodPressureListActivity.this,AddBloodPressureActivity.class);
+            startActivity(intent);
 
             return true;
         }

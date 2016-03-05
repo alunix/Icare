@@ -189,10 +189,8 @@ public class AddVaccinationActivity extends AppCompatActivity implements View.On
 
             int pmaxID = dataStorage.getProfileModelMaxID(DBHelper.TABLE_NAME_VACCINATION);
 
-
-
-            int alarmC=0;
-            alarmC=alarmC+3000+pmaxID;
+            int alarmC = 0;
+            alarmC = alarmC + 3000 + pmaxID;
 
             String alarmCode = String.valueOf(alarmC);
             String notificationCode = String.valueOf(alarmC);
@@ -202,21 +200,25 @@ public class AddVaccinationActivity extends AppCompatActivity implements View.On
             String time = addVaccinationTimeET.getText().toString();
             String details = addVaccinationDetailsET.getText().toString();
 
-            VaccineModel vaccineModel = new VaccineModel(vaccineName, date, time, reminderState, details, personID, flag, alarmCode, notificationCode);
-            boolean insert = dataStorage.insertVaccine(vaccineModel);
-            if (insert) {
-
-                if(addVaccinationReminderCB.isChecked()){
-                    reminderAlarm(vaccineName + ": " + details, alarmC, "Vaccine: " + profileName + " ");
-                }
-
-                Toast.makeText(getApplication(), "Vaccination Information Added Successfully", Toast.LENGTH_LONG).show();
+            if (vaccineName.matches("") || date.matches("") || time.matches("")) {
+                Toast.makeText(getApplicationContext(), "Please fill up your Vaccine Name, Date & Time", Toast.LENGTH_LONG).show();
             } else {
-                Toast.makeText(getApplication(), "Failed", Toast.LENGTH_LONG).show();
+
+                VaccineModel vaccineModel = new VaccineModel(vaccineName, date, time, reminderState, details, personID, flag, alarmCode, notificationCode);
+                boolean insert = dataStorage.insertVaccine(vaccineModel);
+                if (insert) {
+
+                    if (addVaccinationReminderCB.isChecked()) {
+                        reminderAlarm(vaccineName + ": " + details, alarmC, "Vaccine: " + profileName + " ");
+                    }
+
+                    Toast.makeText(getApplication(), "Vaccination Information Added Successfully", Toast.LENGTH_LONG).show();
+                } else {
+                    Toast.makeText(getApplication(), "Failed", Toast.LENGTH_LONG).show();
+                }
             }
-        }
-        else if(saveUpdate.equalsIgnoreCase("UPDATE"))
-        {
+            }
+            else if (saveUpdate.equalsIgnoreCase("UPDATE")) {
             String flag = "A";
             String alarmCode = dataStorage.getVaccineModelByVaccineId(id).get(0).getAlarmCode();
             String notificationCode = dataStorage.getVaccineModelByVaccineId(id).get(0).getNotificationCode();
@@ -225,30 +227,34 @@ public class AddVaccinationActivity extends AppCompatActivity implements View.On
             String time = addVaccinationTimeET.getText().toString();
             String details = addVaccinationDetailsET.getText().toString();
 
-            VaccineModel vaccineModel = new VaccineModel(vaccineName, date, time, reminderState, details, personID, flag, alarmCode, notificationCode);
-            boolean update = dataStorage.updateVaccine(id,vaccineModel);
-            if (update) {
-
-
-                if(addVaccinationReminderCB.isChecked()) {
-
-                    reminderAlarm(vaccineName + ": " + details, Integer.valueOf(alarmCode) , "Vaccine: " + profileName + " ");
-
-                }
-                else {
-                    Intent intent = new Intent(this, MyBroadcastReceiver.class);
-                    PendingIntent pendingIntent = PendingIntent.getBroadcast(this.getApplicationContext(),
-                            Integer.valueOf(alarmCode), intent, 0);
-                    AlarmManager alarmManager = (AlarmManager) getSystemService(ALARM_SERVICE);
-                    if (alarmManager != null) {
-                        alarmManager.cancel(pendingIntent);
-                        Toast.makeText(getApplicationContext(), "Your Alarm Cancel", Toast.LENGTH_LONG).show();
-                    }
-                }
-
-                Toast.makeText(getApplication(), "Vaccination Information Updated Successfully", Toast.LENGTH_LONG).show();
+            if (vaccineName.matches("") || date.matches("") || time.matches("")) {
+                Toast.makeText(getApplicationContext(), "Please fill up your Vaccine Name, Date & Time", Toast.LENGTH_LONG).show();
             } else {
-                Toast.makeText(getApplication(), "Failed", Toast.LENGTH_LONG).show();
+
+                VaccineModel vaccineModel = new VaccineModel(vaccineName, date, time, reminderState, details, personID, flag, alarmCode, notificationCode);
+                boolean update = dataStorage.updateVaccine(id, vaccineModel);
+                if (update) {
+
+
+                    if (addVaccinationReminderCB.isChecked()) {
+
+                        reminderAlarm(vaccineName + ": " + details, Integer.valueOf(alarmCode), "Vaccine: " + profileName + " ");
+
+                    } else {
+                        Intent intent = new Intent(this, MyBroadcastReceiver.class);
+                        PendingIntent pendingIntent = PendingIntent.getBroadcast(this.getApplicationContext(),
+                                Integer.valueOf(alarmCode), intent, 0);
+                        AlarmManager alarmManager = (AlarmManager) getSystemService(ALARM_SERVICE);
+                        if (alarmManager != null) {
+                            alarmManager.cancel(pendingIntent);
+                            Toast.makeText(getApplicationContext(), "Your Alarm Cancel", Toast.LENGTH_LONG).show();
+                        }
+                    }
+
+                    Toast.makeText(getApplication(), "Vaccination Information Updated Successfully", Toast.LENGTH_LONG).show();
+                } else {
+                    Toast.makeText(getApplication(), "Failed", Toast.LENGTH_LONG).show();
+                }
             }
         }
     }
