@@ -24,7 +24,6 @@ import model.DoctorModel;
 
 public class AddBloodPressureActivity extends AppCompatActivity implements View.OnClickListener {
 
-
     EditText addBPDateET;
     EditText addBPTimeET;
     EditText addBPSBPET;
@@ -114,23 +113,22 @@ public class AddBloodPressureActivity extends AppCompatActivity implements View.
     private void showDataforUpdate()
     {
 
-       /* String bpDate = dataStorage.getVaccineModelByVaccineId(id).get(0).getVaccineDate();
-        String bpTime = dataStorage.getVaccineModelByVaccineId(id).get(0).getVaccineTime();
-        String details = dataStorage.getVaccineModelByVaccineId(id).get(0).getvDetails();
-        String reminderState = dataStorage.getVaccineModelByVaccineId(id).get(0).getvReminderState();
+        String bpDate = dataStorage.getBloodPressureBybpId(id).get(0).getBpDate();
+        String bpTime = dataStorage.getBloodPressureBybpId(id).get(0).getBpTime();
+        String bpSBP = dataStorage.getBloodPressureBybpId(id).get(0).getBpSBP();
+        String bpDBP = dataStorage.getBloodPressureBybpId(id).get(0).getBpDBP();
+        String bpBPM = dataStorage.getBloodPressureBybpId(id).get(0).getBpBPM();
+        String bpNotes = dataStorage.getBloodPressureBybpId(id).get(0).getBpNote();
 
-        addVaccinationVaccineNameET.setText(vaccineName);
-        addVaccinationDateET.setText(bpDate);
-        addVaccinationTimeET.setText(bpTime);
-        addVaccinationDetailsET.setText(details);
-        if(reminderState == null || reminderState.equalsIgnoreCase("0"))
-        {
-            addVaccinationReminderCB.setChecked(false);
-        }
-        else
-        {
-            addVaccinationReminderCB.setChecked(true);
-        }*/
+
+
+        addBPDateET.setText(bpDate);
+        addBPTimeET.setText(bpTime);
+        addBPSBPET.setText(bpSBP);
+        addBPDBPET.setText(bpDBP);
+        addBPBPMET.setText(bpBPM);
+        addBPNotesET.setText(bpNotes);
+
     }
 
     private void datePicker()   {
@@ -183,7 +181,7 @@ public class AddBloodPressureActivity extends AppCompatActivity implements View.
         {
             String flag = "A";
             String bpDate = addBPDateET.getText().toString();
-            String bpTime=addBPDateET.getText().toString();
+            String bpTime=addBPTimeET.getText().toString();
             String bpSBP = addBPSBPET.getText().toString();
             String bpDBP = addBPDBPET.getText().toString();
             String bpBPM = addBPBPMET.getText().toString();
@@ -192,9 +190,9 @@ public class AddBloodPressureActivity extends AppCompatActivity implements View.
             BloodPressureModel bloodPressureModel=new BloodPressureModel(bpDate,bpTime,bpSBP,bpDBP,bpBPM,bpNotes,flag,personID);
             boolean updated = dataStorage.updateBloodPressure(id, bloodPressureModel);
             if (updated) {
-                Toast.makeText(getApplication(), "Doctor Updated Successfully", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplication(), "Blood Pressure Updated Successfully", Toast.LENGTH_LONG).show();
             } else {
-                Toast.makeText(getApplication(), "Failed or This Doctor has been Exists", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplication(), "Failed or This Blood Pressure Record has been Exists", Toast.LENGTH_LONG).show();
             }
 
         }
