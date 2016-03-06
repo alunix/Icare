@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
+    android:paddingTop="2dp"
     android:layout_height="match_parent">
 
     <LinearLayout
@@ -11,64 +12,81 @@
         >
         <!--  Column 1 header -->
         <TextView
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:id="@+id/BPDateTV"
             android:hint="Date"
             android:textColor="#fff"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="2"
+            android:layout_weight="2.5"
             />
         <!--  Column 2 header -->
         <TextView
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:id="@+id/BPTimeTV"
             android:hint="Time"
             android:textColor="#fff"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="1.2"
             />
 
         <!--  Column 2 header -->
         <TextView
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:id="@+id/BPSBPTV"
             android:hint="SBP"
             android:textColor="#fff"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="1.2"
             />
 
 
         <!--  Column 2 header -->
         <TextView
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:id="@+id/BPDBMTV"
             android:hint="DBP"
             android:textColor="#fff"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="1.2"
             />
 
         <!--  Column 2 header -->
         <TextView
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:id="@+id/BPBPMTV"
             android:hint="BPM"
             android:textColor="#fff"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="1.2"
             />
 
         <!--  Column 2 header -->
         <TextView
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:id="@+id/BPNotesTV"
             android:hint="Notes"
             android:textColor="#fff"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="3"
+            android:layout_weight="2.5"
             />
-
 
     </LinearLayout>
 </LinearLayout>

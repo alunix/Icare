@@ -1,127 +1,11 @@
 [
     {
-        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_paste_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_paste_material.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_selectall_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_selectall_material.png"
-    },
-    {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_voice_search_api_material.png",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_voice_search_api_material.png"
-    },
-    {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_go_search_api_material.png",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_go_search_api_material.png"
-    },
-    {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_clear_material.png",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_clear_material.png"
-    },
-    {
         "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_overflow_material.png",
         "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_overflow_material.png"
     },
     {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_checked_mtrl.png",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_checked_mtrl.png"
-    },
-    {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_overflow_material.png",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_overflow_material.png"
-    },
-    {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_copy_material.png",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_copy_material.png"
-    },
-    {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_ab_back_material.png",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_ab_back_material.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_clear_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_clear_material.png"
-    },
-    {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_share_material.png",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_share_material.png"
-    },
-    {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_ab_back_material.png",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_ab_back_material.png"
-    },
-    {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_paste_material.png",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_paste_material.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_on_mtrl.png",
-        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_on_mtrl.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_go_search_api_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_go_search_api_material.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_off_mtrl.png",
-        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_off_mtrl.png"
-    },
-    {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_paste_material.png",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_paste_material.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_checked_mtrl.png",
-        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_checked_mtrl.png"
-    },
-    {
         "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_selectall_material.png",
         "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_selectall_material.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_voice_search_api_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_voice_search_api_material.png"
-    },
-    {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_share_material.png",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_share_material.png"
-    },
-    {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_cut_material.png",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_cut_material.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_cut_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_cut_material.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_on_mtrl.png",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_on_mtrl.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_cut_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_cut_material.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_ab_back_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_ab_back_material.png"
-    },
-    {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_checked_mtrl.png",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_checked_mtrl.png"
-    },
-    {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_voice_search_api_material.png",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_voice_search_api_material.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_share_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_share_material.png"
-    },
-    {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_on_mtrl.png",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_on_mtrl.png"
     },
     {
         "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_cut_material.png",
@@ -132,95 +16,211 @@
         "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_clear_material.png"
     },
     {
-        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_selectall_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_selectall_material.png"
-    },
-    {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_unchecked_mtrl.png"
-    },
-    {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_go_search_api_material.png",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_go_search_api_material.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_unchecked_mtrl.png"
-    },
-    {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_unchecked_mtrl.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_voice_search_api_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_voice_search_api_material.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_overflow_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_overflow_material.png"
-    },
-    {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_off_mtrl.png",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_off_mtrl.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
-        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_unchecked_mtrl.png"
-    },
-    {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_clear_material.png",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_clear_material.png"
-    },
-    {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_off_mtrl.png",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_off_mtrl.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_off_mtrl.png",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_off_mtrl.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_paste_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_paste_material.png"
-    },
-    {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_share_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_share_material.png"
-    },
-    {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_checked_mtrl.png",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_checked_mtrl.png"
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_selectall_material.png",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_selectall_material.png"
     },
     {
         "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_ab_back_material.png",
         "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_ab_back_material.png"
     },
     {
-        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_go_search_api_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_go_search_api_material.png"
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_off_mtrl.png",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_off_mtrl.png"
     },
     {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_copy_material.png",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_copy_material.png"
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_off_mtrl.png",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_off_mtrl.png"
     },
     {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_copy_material.png",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_copy_material.png"
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_cut_material.png",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_cut_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_on_mtrl.png",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_on_mtrl.png"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_unchecked_mtrl.png"
+    },
+    {
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_overflow_material.png",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_overflow_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_voice_search_api_material.png",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_voice_search_api_material.png"
     },
     {
         "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_copy_material.png",
         "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_copy_material.png"
     },
     {
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_copy_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_copy_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_selectall_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_selectall_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_go_search_api_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_go_search_api_material.png"
+    },
+    {
         "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_overflow_material.png",
         "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_paste_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_paste_material.png"
+    },
+    {
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_go_search_api_material.png",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_go_search_api_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
+        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_unchecked_mtrl.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_paste_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_paste_material.png"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_go_search_api_material.png",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_go_search_api_material.png"
+    },
+    {
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_voice_search_api_material.png",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_voice_search_api_material.png"
+    },
+    {
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_checked_mtrl.png",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_checked_mtrl.png"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_copy_material.png",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_copy_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_voice_search_api_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_voice_search_api_material.png"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_share_material.png",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_share_material.png"
+    },
+    {
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_paste_material.png",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_paste_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_cut_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_cut_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_cut_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_cut_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_clear_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_clear_material.png"
+    },
+    {
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_share_material.png",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_share_material.png"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_off_mtrl.png",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_off_mtrl.png"
+    },
+    {
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_unchecked_mtrl.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_selectall_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_selectall_material.png"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_checked_mtrl.png",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_checked_mtrl.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_on_mtrl.png",
+        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_on_mtrl.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_checked_mtrl.png",
+        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_checked_mtrl.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_checked_mtrl.png",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_checked_mtrl.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_share_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_share_material.png"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_paste_material.png",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_paste_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_voice_search_api_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_voice_search_api_material.png"
+    },
+    {
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_ab_back_material.png",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_ab_back_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_go_search_api_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_go_search_api_material.png"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_clear_material.png",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_clear_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_checkbox_unchecked_mtrl.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_share_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_share_material.png"
+    },
+    {
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_clear_material.png",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_clear_material.png"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_ab_back_material.png",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_ab_back_material.png"
     },
     {
         "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_on_mtrl.png",
         "source": "F:\\Android_Project\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_on_mtrl.png"
     },
     {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_selectall_material.png",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_selectall_material.png"
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_ab_back_material.png",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_ab_back_material.png"
+    },
+    {
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_copy_material.png",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_copy_material.png"
+    },
+    {
+        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_off_mtrl.png",
+        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_off_mtrl.png"
+    },
+    {
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_on_mtrl.png",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_on_mtrl.png"
     }
 ]

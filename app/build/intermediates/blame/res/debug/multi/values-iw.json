@@ -1,1207 +1,5 @@
 [
     {
-        "outputFile": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\values-iw\\values-iw.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 103,
-                    "endOffset": 204
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 103,
-                        "endOffset": 154
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 209,
-                    "endColumn": 109,
-                    "endOffset": 314
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 159,
-                        "endColumn": 109,
-                        "endOffset": 264
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 319,
-                    "endColumn": 125,
-                    "endOffset": 440
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 269,
-                        "endColumn": 125,
-                        "endOffset": 390
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 445,
-                    "endColumn": 98,
-                    "endOffset": 539
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 395,
-                        "endColumn": 98,
-                        "endOffset": 489
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 544,
-                    "endColumn": 107,
-                    "endOffset": 647
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 494,
-                        "endColumn": 107,
-                        "endOffset": 597
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 652,
-                    "endColumn": 83,
-                    "endOffset": 731
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 602,
-                        "endColumn": 83,
-                        "endOffset": 681
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 736,
-                    "endColumn": 99,
-                    "endOffset": 831
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 686,
-                        "endColumn": 99,
-                        "endOffset": 781
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 836,
-                    "endColumn": 113,
-                    "endOffset": 945
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 786,
-                        "endColumn": 113,
-                        "endOffset": 895
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 950,
-                    "endColumn": 77,
-                    "endOffset": 1023
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 900,
-                        "endColumn": 77,
-                        "endOffset": 973
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1028,
-                    "endColumn": 77,
-                    "endOffset": 1101
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 978,
-                        "endColumn": 77,
-                        "endOffset": 1051
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1106,
-                    "endColumn": 78,
-                    "endOffset": 1180
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1056,
-                        "endColumn": 78,
-                        "endOffset": 1130
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1185,
-                    "endColumn": 101,
-                    "endOffset": 1282
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1135,
-                        "endColumn": 101,
-                        "endOffset": 1232
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1287,
-                    "endColumn": 103,
-                    "endOffset": 1386
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1237,
-                        "endColumn": 103,
-                        "endOffset": 1336
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1391,
-                    "endColumn": 95,
-                    "endOffset": 1482
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1341,
-                        "endColumn": 95,
-                        "endOffset": 1432
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1487,
-                    "endColumn": 102,
-                    "endOffset": 1585
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1437,
-                        "endColumn": 102,
-                        "endOffset": 1535
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1590,
-                    "endColumn": 100,
-                    "endOffset": 1686
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1540,
-                        "endColumn": 100,
-                        "endOffset": 1636
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1691,
-                    "endColumn": 99,
-                    "endOffset": 1786
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1641,
-                        "endColumn": 99,
-                        "endOffset": 1736
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1791,
-                    "endColumn": 115,
-                    "endOffset": 1902
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1741,
-                        "endColumn": 115,
-                        "endOffset": 1852
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1907,
-                    "endColumn": 95,
-                    "endOffset": 1998
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1857,
-                        "endColumn": 95,
-                        "endOffset": 1948
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2003,
-                    "endColumn": 237,
-                    "endOffset": 2236
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3340,
-                        "endColumn": 241,
-                        "endOffset": 3577
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2241,
-                    "endColumn": 127,
-                    "endOffset": 2364
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 1300,
-                        "endColumn": 127,
-                        "endOffset": 1423
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2369,
-                    "endColumn": 185,
-                    "endOffset": 2550
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 1110,
-                        "endColumn": 189,
-                        "endOffset": 1295
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 2555,
-                    "endColumn": 126,
-                    "endOffset": 2677
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 983,
-                        "endColumn": 126,
-                        "endOffset": 1105
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2682,
-                    "endColumn": 127,
-                    "endOffset": 2805
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 855,
-                        "endColumn": 127,
-                        "endOffset": 978
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 2810,
-                    "endColumn": 207,
-                    "endOffset": 3013
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 430,
-                        "endColumn": 211,
-                        "endOffset": 637
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 3018,
-                    "endColumn": 208,
-                    "endOffset": 3222
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 642,
-                        "endColumn": 212,
-                        "endOffset": 850
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 3227,
-                    "endColumn": 126,
-                    "endOffset": 3349
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 303,
-                        "endColumn": 126,
-                        "endOffset": 425
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 3354,
-                    "endColumn": 153,
-                    "endOffset": 3503
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 2636,
-                        "endColumn": 153,
-                        "endOffset": 2785
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 3508,
-                    "endColumn": 118,
-                    "endOffset": 3622
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 2517,
-                        "endColumn": 118,
-                        "endOffset": 2631
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 3627,
-                    "endColumn": 155,
-                    "endOffset": 3778
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 2361,
-                        "endColumn": 155,
-                        "endOffset": 2512
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 3783,
-                    "endColumn": 115,
-                    "endOffset": 3894
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 2245,
-                        "endColumn": 115,
-                        "endOffset": 2356
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 3899,
-                    "endColumn": 132,
-                    "endOffset": 4027
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 132,
-                        "endOffset": 298
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 4032,
-                    "endColumn": 150,
-                    "endOffset": 4178
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 3985,
-                        "endColumn": 150,
-                        "endOffset": 4131
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 4183,
-                    "endColumn": 123,
-                    "endOffset": 4302
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 3861,
-                        "endColumn": 123,
-                        "endOffset": 3980
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 4307,
-                    "endColumn": 158,
-                    "endOffset": 4461
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 3702,
-                        "endColumn": 158,
-                        "endOffset": 3856
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 4466,
-                    "endColumn": 119,
-                    "endOffset": 4581
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 3582,
-                        "endColumn": 119,
-                        "endOffset": 3697
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 4586,
-                    "endColumn": 216,
-                    "endOffset": 4798
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-iw\\common_strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 220,
-                        "endOffset": 386
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 4803,
-                    "endColumn": 228,
-                    "endOffset": 5027
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2913,
-                        "endColumn": 232,
-                        "endOffset": 3141
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 5032,
-                    "endColumn": 122,
-                    "endOffset": 5150
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 2790,
-                        "endColumn": 122,
-                        "endOffset": 2908
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 5155,
-                    "endColumn": 104,
-                    "endOffset": 5255
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3146,
-                        "endColumn": 104,
-                        "endOffset": 3246
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 42,
-                    "startColumn": 4,
-                    "startOffset": 5260,
-                    "endColumn": 185,
-                    "endOffset": 5441
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1553,
-                        "endColumn": 189,
-                        "endOffset": 1738
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 5446,
-                    "endColumn": 124,
-                    "endOffset": 5566
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1428,
-                        "endColumn": 124,
-                        "endOffset": 1548
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 44,
-                    "startColumn": 4,
-                    "startOffset": 5571,
-                    "endColumn": 192,
-                    "endOffset": 5759
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 2048,
-                        "endColumn": 196,
-                        "endOffset": 2240
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 45,
-                    "startColumn": 4,
-                    "startOffset": 5764,
-                    "endColumn": 129,
-                    "endOffset": 5889
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1918,
-                        "endColumn": 129,
-                        "endOffset": 2043
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 46,
-                    "startColumn": 4,
-                    "startOffset": 5894,
-                    "endColumn": 174,
-                    "endOffset": 6064
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1743,
-                        "endColumn": 174,
-                        "endOffset": 1913
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 47,
-                    "startColumn": 4,
-                    "startOffset": 6069,
-                    "endColumn": 88,
-                    "endOffset": 6153
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3251,
-                        "endColumn": 88,
-                        "endOffset": 3335
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 6158,
-                    "endColumn": 89,
-                    "endOffset": 6243
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 4136,
-                        "endColumn": 89,
-                        "endOffset": 4221
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 6248,
-                    "endColumn": 110,
-                    "endOffset": 6354
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 4226,
-                        "endColumn": 110,
-                        "endOffset": 4332
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 50,
-                    "startColumn": 4,
-                    "startOffset": 6359,
-                    "endColumn": 104,
-                    "endOffset": 6459
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 278,
-                        "endColumn": 104,
-                        "endOffset": 378
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 51,
-                    "startColumn": 4,
-                    "startOffset": 6464,
-                    "endColumn": 104,
-                    "endOffset": 6564
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 383,
-                        "endColumn": 104,
-                        "endOffset": 483
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 52,
-                    "startColumn": 4,
-                    "startOffset": 6569,
-                    "endColumn": 99,
-                    "endOffset": 6664
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 488,
-                        "endColumn": 99,
-                        "endOffset": 583
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 53,
-                    "startColumn": 4,
-                    "startOffset": 6669,
-                    "endColumn": 99,
-                    "endOffset": 6764
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 588,
-                        "endColumn": 99,
-                        "endOffset": 683
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 6769,
-                    "endColumn": 115,
-                    "endOffset": 6880
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 688,
-                        "endColumn": 115,
-                        "endOffset": 799
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 6885,
-                    "endColumn": 94,
-                    "endOffset": 6975
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 804,
-                        "endColumn": 94,
-                        "endOffset": 894
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 56,
-                    "startColumn": 4,
-                    "startOffset": 6980,
-                    "endColumn": 93,
-                    "endOffset": 7069
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 899,
-                        "endColumn": 93,
-                        "endOffset": 988
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 57,
-                    "startColumn": 4,
-                    "startOffset": 7074,
-                    "endColumn": 115,
-                    "endOffset": 7185
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 993,
-                        "endColumn": 115,
-                        "endOffset": 1104
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 58,
-                    "startColumn": 4,
-                    "startOffset": 7190,
-                    "endColumn": 99,
-                    "endOffset": 7285
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1109,
-                        "endColumn": 99,
-                        "endOffset": 1204
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 59,
-                    "startColumn": 4,
-                    "startOffset": 7290,
-                    "endColumn": 84,
-                    "endOffset": 7370
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1209,
-                        "endColumn": 84,
-                        "endOffset": 1289
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 60,
-                    "startColumn": 4,
-                    "startOffset": 7375,
-                    "endColumn": 93,
-                    "endOffset": 7464
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1294,
-                        "endColumn": 93,
-                        "endOffset": 1383
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 61,
-                    "startColumn": 4,
-                    "startOffset": 7469,
-                    "endColumn": 103,
-                    "endOffset": 7568
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-iw\\location_strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 325,
-                        "endColumn": 103,
-                        "endOffset": 424
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 62,
-                    "startColumn": 4,
-                    "startOffset": 7573,
-                    "endColumn": 94,
-                    "endOffset": 7663
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-iw\\location_strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 230,
-                        "endColumn": 94,
-                        "endOffset": 320
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 63,
-                    "startColumn": 4,
-                    "startOffset": 7668,
-                    "endColumn": 102,
-                    "endOffset": 7766
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1953,
-                        "endColumn": 102,
-                        "endOffset": 2051
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 64,
-                    "startColumn": 4,
-                    "startOffset": 7771,
-                    "endColumn": 105,
-                    "endOffset": 7872
-                },
-                "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-iw\\wallet_strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 230,
-                        "endColumn": 105,
-                        "endOffset": 331
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\values-iw\\values-iw.xml",
         "map": [
             {
@@ -2419,9 +1217,9 @@
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 57,
                         "endColumn": 103,
-                        "endOffset": 154
+                        "endOffset": 156
                     }
                 }
             },
@@ -2438,9 +1236,9 @@
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 159,
+                        "startOffset": 162,
                         "endColumn": 109,
-                        "endOffset": 264
+                        "endOffset": 267
                     }
                 }
             },
@@ -2457,9 +1255,9 @@
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 269,
+                        "startOffset": 273,
                         "endColumn": 125,
-                        "endOffset": 390
+                        "endOffset": 394
                     }
                 }
             },
@@ -2476,9 +1274,9 @@
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 395,
+                        "startOffset": 400,
                         "endColumn": 98,
-                        "endOffset": 489
+                        "endOffset": 494
                     }
                 }
             },
@@ -2495,9 +1293,9 @@
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 494,
+                        "startOffset": 500,
                         "endColumn": 107,
-                        "endOffset": 597
+                        "endOffset": 603
                     }
                 }
             },
@@ -2514,9 +1312,9 @@
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 602,
+                        "startOffset": 609,
                         "endColumn": 83,
-                        "endOffset": 681
+                        "endOffset": 688
                     }
                 }
             },
@@ -2533,9 +1331,9 @@
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 686,
+                        "startOffset": 694,
                         "endColumn": 99,
-                        "endOffset": 781
+                        "endOffset": 789
                     }
                 }
             },
@@ -2552,9 +1350,9 @@
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 786,
+                        "startOffset": 795,
                         "endColumn": 113,
-                        "endOffset": 895
+                        "endOffset": 904
                     }
                 }
             },
@@ -2571,9 +1369,9 @@
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 900,
+                        "startOffset": 910,
                         "endColumn": 77,
-                        "endOffset": 973
+                        "endOffset": 983
                     }
                 }
             },
@@ -2590,9 +1388,9 @@
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 978,
+                        "startOffset": 989,
                         "endColumn": 77,
-                        "endOffset": 1051
+                        "endOffset": 1062
                     }
                 }
             },
@@ -2609,9 +1407,9 @@
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1056,
+                        "startOffset": 1068,
                         "endColumn": 78,
-                        "endOffset": 1130
+                        "endOffset": 1142
                     }
                 }
             },
@@ -2628,9 +1426,9 @@
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1135,
+                        "startOffset": 1148,
                         "endColumn": 101,
-                        "endOffset": 1232
+                        "endOffset": 1245
                     }
                 }
             },
@@ -2647,9 +1445,9 @@
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1237,
+                        "startOffset": 1251,
                         "endColumn": 103,
-                        "endOffset": 1336
+                        "endOffset": 1350
                     }
                 }
             },
@@ -2666,9 +1464,9 @@
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1341,
+                        "startOffset": 1356,
                         "endColumn": 95,
-                        "endOffset": 1432
+                        "endOffset": 1447
                     }
                 }
             },
@@ -2685,9 +1483,9 @@
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1437,
+                        "startOffset": 1453,
                         "endColumn": 102,
-                        "endOffset": 1535
+                        "endOffset": 1551
                     }
                 }
             },
@@ -2704,9 +1502,9 @@
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1540,
+                        "startOffset": 1557,
                         "endColumn": 100,
-                        "endOffset": 1636
+                        "endOffset": 1653
                     }
                 }
             },
@@ -2723,9 +1521,9 @@
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1641,
+                        "startOffset": 1659,
                         "endColumn": 99,
-                        "endOffset": 1736
+                        "endOffset": 1754
                     }
                 }
             },
@@ -2742,9 +1540,9 @@
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1741,
+                        "startOffset": 1760,
                         "endColumn": 115,
-                        "endOffset": 1852
+                        "endOffset": 1871
                     }
                 }
             },
@@ -2761,9 +1559,9 @@
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1857,
+                        "startOffset": 1877,
                         "endColumn": 95,
-                        "endOffset": 1948
+                        "endOffset": 1968
                     }
                 }
             },
@@ -2780,9 +1578,9 @@
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 3340,
+                        "startOffset": 3364,
                         "endColumn": 241,
-                        "endOffset": 3577
+                        "endOffset": 3601
                     }
                 }
             },
@@ -2799,9 +1597,9 @@
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1300,
+                        "startOffset": 1310,
                         "endColumn": 127,
-                        "endOffset": 1423
+                        "endOffset": 1433
                     }
                 }
             },
@@ -2818,9 +1616,9 @@
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1110,
+                        "startOffset": 1119,
                         "endColumn": 189,
-                        "endOffset": 1295
+                        "endOffset": 1304
                     }
                 }
             },
@@ -2837,9 +1635,9 @@
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 983,
+                        "startOffset": 991,
                         "endColumn": 126,
-                        "endOffset": 1105
+                        "endOffset": 1113
                     }
                 }
             },
@@ -2856,9 +1654,9 @@
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 855,
+                        "startOffset": 862,
                         "endColumn": 127,
-                        "endOffset": 978
+                        "endOffset": 985
                     }
                 }
             },
@@ -2875,9 +1673,9 @@
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 430,
+                        "startOffset": 435,
                         "endColumn": 211,
-                        "endOffset": 637
+                        "endOffset": 642
                     }
                 }
             },
@@ -2894,9 +1692,9 @@
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 642,
+                        "startOffset": 648,
                         "endColumn": 212,
-                        "endOffset": 850
+                        "endOffset": 856
                     }
                 }
             },
@@ -2913,9 +1711,9 @@
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 303,
+                        "startOffset": 307,
                         "endColumn": 126,
-                        "endOffset": 425
+                        "endOffset": 429
                     }
                 }
             },
@@ -2932,9 +1730,9 @@
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2636,
+                        "startOffset": 2655,
                         "endColumn": 153,
-                        "endOffset": 2785
+                        "endOffset": 2804
                     }
                 }
             },
@@ -2951,9 +1749,9 @@
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 2517,
+                        "startOffset": 2535,
                         "endColumn": 118,
-                        "endOffset": 2631
+                        "endOffset": 2649
                     }
                 }
             },
@@ -2970,9 +1768,9 @@
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 2361,
+                        "startOffset": 2378,
                         "endColumn": 155,
-                        "endOffset": 2512
+                        "endOffset": 2529
                     }
                 }
             },
@@ -2989,9 +1787,9 @@
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 2245,
+                        "startOffset": 2261,
                         "endColumn": 115,
-                        "endOffset": 2356
+                        "endOffset": 2372
                     }
                 }
             },
@@ -3008,9 +1806,9 @@
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 170,
+                        "startOffset": 173,
                         "endColumn": 132,
-                        "endOffset": 298
+                        "endOffset": 301
                     }
                 }
             },
@@ -3027,9 +1825,9 @@
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 3985,
+                        "startOffset": 4013,
                         "endColumn": 150,
-                        "endOffset": 4131
+                        "endOffset": 4159
                     }
                 }
             },
@@ -3046,9 +1844,9 @@
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 3861,
+                        "startOffset": 3888,
                         "endColumn": 123,
-                        "endOffset": 3980
+                        "endOffset": 4007
                     }
                 }
             },
@@ -3065,9 +1863,9 @@
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 3702,
+                        "startOffset": 3728,
                         "endColumn": 158,
-                        "endOffset": 3856
+                        "endOffset": 3882
                     }
                 }
             },
@@ -3084,9 +1882,9 @@
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 3582,
+                        "startOffset": 3607,
                         "endColumn": 119,
-                        "endOffset": 3697
+                        "endOffset": 3722
                     }
                 }
             },
@@ -3103,9 +1901,9 @@
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 170,
+                        "startOffset": 173,
                         "endColumn": 220,
-                        "endOffset": 386
+                        "endOffset": 389
                     }
                 }
             },
@@ -3122,9 +1920,9 @@
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2913,
+                        "startOffset": 2934,
                         "endColumn": 232,
-                        "endOffset": 3141
+                        "endOffset": 3162
                     }
                 }
             },
@@ -3141,9 +1939,9 @@
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2790,
+                        "startOffset": 2810,
                         "endColumn": 122,
-                        "endOffset": 2908
+                        "endOffset": 2928
                     }
                 }
             },
@@ -3160,9 +1958,9 @@
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 3146,
+                        "startOffset": 3168,
                         "endColumn": 104,
-                        "endOffset": 3246
+                        "endOffset": 3268
                     }
                 }
             },
@@ -3179,9 +1977,9 @@
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1553,
+                        "startOffset": 1565,
                         "endColumn": 189,
-                        "endOffset": 1738
+                        "endOffset": 1750
                     }
                 }
             },
@@ -3198,9 +1996,9 @@
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1428,
+                        "startOffset": 1439,
                         "endColumn": 124,
-                        "endOffset": 1548
+                        "endOffset": 1559
                     }
                 }
             },
@@ -3217,9 +2015,9 @@
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 2048,
+                        "startOffset": 2063,
                         "endColumn": 196,
-                        "endOffset": 2240
+                        "endOffset": 2255
                     }
                 }
             },
@@ -3236,9 +2034,9 @@
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1918,
+                        "startOffset": 1932,
                         "endColumn": 129,
-                        "endOffset": 2043
+                        "endOffset": 2057
                     }
                 }
             },
@@ -3255,9 +2053,9 @@
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1743,
+                        "startOffset": 1756,
                         "endColumn": 174,
-                        "endOffset": 1913
+                        "endOffset": 1926
                     }
                 }
             },
@@ -3274,9 +2072,9 @@
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 3251,
+                        "startOffset": 3274,
                         "endColumn": 88,
-                        "endOffset": 3335
+                        "endOffset": 3358
                     }
                 }
             },
@@ -3293,9 +2091,9 @@
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 4136,
+                        "startOffset": 4165,
                         "endColumn": 89,
-                        "endOffset": 4221
+                        "endOffset": 4250
                     }
                 }
             },
@@ -3312,9 +2110,9 @@
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 4226,
+                        "startOffset": 4256,
                         "endColumn": 110,
-                        "endOffset": 4332
+                        "endOffset": 4362
                     }
                 }
             },
@@ -3331,9 +2129,9 @@
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 278,
+                        "startOffset": 282,
                         "endColumn": 104,
-                        "endOffset": 378
+                        "endOffset": 382
                     }
                 }
             },
@@ -3350,9 +2148,9 @@
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 383,
+                        "startOffset": 388,
                         "endColumn": 104,
-                        "endOffset": 483
+                        "endOffset": 488
                     }
                 }
             },
@@ -3369,9 +2167,9 @@
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 488,
+                        "startOffset": 494,
                         "endColumn": 99,
-                        "endOffset": 583
+                        "endOffset": 589
                     }
                 }
             },
@@ -3388,9 +2186,9 @@
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 588,
+                        "startOffset": 595,
                         "endColumn": 99,
-                        "endOffset": 683
+                        "endOffset": 690
                     }
                 }
             },
@@ -3407,9 +2205,9 @@
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 688,
+                        "startOffset": 696,
                         "endColumn": 115,
-                        "endOffset": 799
+                        "endOffset": 807
                     }
                 }
             },
@@ -3426,9 +2224,9 @@
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 804,
+                        "startOffset": 813,
                         "endColumn": 94,
-                        "endOffset": 894
+                        "endOffset": 903
                     }
                 }
             },
@@ -3445,9 +2243,9 @@
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 899,
+                        "startOffset": 909,
                         "endColumn": 93,
-                        "endOffset": 988
+                        "endOffset": 998
                     }
                 }
             },
@@ -3464,9 +2262,9 @@
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 993,
+                        "startOffset": 1004,
                         "endColumn": 115,
-                        "endOffset": 1104
+                        "endOffset": 1115
                     }
                 }
             },
@@ -3483,9 +2281,9 @@
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1109,
+                        "startOffset": 1121,
                         "endColumn": 99,
-                        "endOffset": 1204
+                        "endOffset": 1216
                     }
                 }
             },
@@ -3502,9 +2300,9 @@
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1209,
+                        "startOffset": 1222,
                         "endColumn": 84,
-                        "endOffset": 1289
+                        "endOffset": 1302
                     }
                 }
             },
@@ -3521,9 +2319,9 @@
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1294,
+                        "startOffset": 1308,
                         "endColumn": 93,
-                        "endOffset": 1383
+                        "endOffset": 1397
                     }
                 }
             },
@@ -3540,9 +2338,9 @@
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 325,
+                        "startOffset": 331,
                         "endColumn": 103,
-                        "endOffset": 424
+                        "endOffset": 430
                     }
                 }
             },
@@ -3559,9 +2357,9 @@
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 230,
+                        "startOffset": 235,
                         "endColumn": 94,
-                        "endOffset": 320
+                        "endOffset": 325
                     }
                 }
             },
@@ -3578,9 +2376,9 @@
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1953,
+                        "startOffset": 1974,
                         "endColumn": 102,
-                        "endOffset": 2051
+                        "endOffset": 2072
                     }
                 }
             },
@@ -3597,9 +2395,9 @@
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 230,
+                        "startOffset": 235,
                         "endColumn": 105,
-                        "endOffset": 331
+                        "endOffset": 336
                     }
                 }
             }
@@ -4796,6 +3594,1208 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-iw\\wallet_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 105,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\values-iw\\values-iw.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 103,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 103,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 109,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 109,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 125,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 125,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 98,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 98,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 107,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 107,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 83,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 83,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 736,
+                    "endColumn": 99,
+                    "endOffset": 831
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 99,
+                        "endOffset": 781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 836,
+                    "endColumn": 113,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 786,
+                        "endColumn": 113,
+                        "endOffset": 895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 77,
+                    "endOffset": 1023
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 900,
+                        "endColumn": 77,
+                        "endOffset": 973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1028,
+                    "endColumn": 77,
+                    "endOffset": 1101
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 978,
+                        "endColumn": 77,
+                        "endOffset": 1051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1106,
+                    "endColumn": 78,
+                    "endOffset": 1180
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1056,
+                        "endColumn": 78,
+                        "endOffset": 1130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1185,
+                    "endColumn": 101,
+                    "endOffset": 1282
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1135,
+                        "endColumn": 101,
+                        "endOffset": 1232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1287,
+                    "endColumn": 103,
+                    "endOffset": 1386
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1237,
+                        "endColumn": 103,
+                        "endOffset": 1336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1391,
+                    "endColumn": 95,
+                    "endOffset": 1482
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1341,
+                        "endColumn": 95,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1487,
+                    "endColumn": 102,
+                    "endOffset": 1585
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 102,
+                        "endOffset": 1535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1590,
+                    "endColumn": 100,
+                    "endOffset": 1686
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1540,
+                        "endColumn": 100,
+                        "endOffset": 1636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1691,
+                    "endColumn": 99,
+                    "endOffset": 1786
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1641,
+                        "endColumn": 99,
+                        "endOffset": 1736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1791,
+                    "endColumn": 115,
+                    "endOffset": 1902
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1741,
+                        "endColumn": 115,
+                        "endOffset": 1852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1907,
+                    "endColumn": 95,
+                    "endOffset": 1998
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1857,
+                        "endColumn": 95,
+                        "endOffset": 1948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2003,
+                    "endColumn": 237,
+                    "endOffset": 2236
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3340,
+                        "endColumn": 241,
+                        "endOffset": 3577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2241,
+                    "endColumn": 127,
+                    "endOffset": 2364
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1300,
+                        "endColumn": 127,
+                        "endOffset": 1423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2369,
+                    "endColumn": 185,
+                    "endOffset": 2550
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1110,
+                        "endColumn": 189,
+                        "endOffset": 1295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2555,
+                    "endColumn": 126,
+                    "endOffset": 2677
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 983,
+                        "endColumn": 126,
+                        "endOffset": 1105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2682,
+                    "endColumn": 127,
+                    "endOffset": 2805
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 127,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2810,
+                    "endColumn": 207,
+                    "endOffset": 3013
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 430,
+                        "endColumn": 211,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3018,
+                    "endColumn": 208,
+                    "endOffset": 3222
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 212,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3227,
+                    "endColumn": 126,
+                    "endOffset": 3349
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 126,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3354,
+                    "endColumn": 153,
+                    "endOffset": 3503
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2636,
+                        "endColumn": 153,
+                        "endOffset": 2785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3508,
+                    "endColumn": 118,
+                    "endOffset": 3622
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2517,
+                        "endColumn": 118,
+                        "endOffset": 2631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3627,
+                    "endColumn": 155,
+                    "endOffset": 3778
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2361,
+                        "endColumn": 155,
+                        "endOffset": 2512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3783,
+                    "endColumn": 115,
+                    "endOffset": 3894
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2245,
+                        "endColumn": 115,
+                        "endOffset": 2356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3899,
+                    "endColumn": 132,
+                    "endOffset": 4027
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 132,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4032,
+                    "endColumn": 150,
+                    "endOffset": 4178
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3985,
+                        "endColumn": 150,
+                        "endOffset": 4131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4183,
+                    "endColumn": 123,
+                    "endOffset": 4302
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3861,
+                        "endColumn": 123,
+                        "endOffset": 3980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4307,
+                    "endColumn": 158,
+                    "endOffset": 4461
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3702,
+                        "endColumn": 158,
+                        "endOffset": 3856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4466,
+                    "endColumn": 119,
+                    "endOffset": 4581
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3582,
+                        "endColumn": 119,
+                        "endOffset": 3697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4586,
+                    "endColumn": 216,
+                    "endOffset": 4798
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-iw\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 220,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4803,
+                    "endColumn": 228,
+                    "endOffset": 5027
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2913,
+                        "endColumn": 232,
+                        "endOffset": 3141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5032,
+                    "endColumn": 122,
+                    "endOffset": 5150
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2790,
+                        "endColumn": 122,
+                        "endOffset": 2908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5155,
+                    "endColumn": 104,
+                    "endOffset": 5255
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3146,
+                        "endColumn": 104,
+                        "endOffset": 3246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5260,
+                    "endColumn": 185,
+                    "endOffset": 5441
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1553,
+                        "endColumn": 189,
+                        "endOffset": 1738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5446,
+                    "endColumn": 124,
+                    "endOffset": 5566
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1428,
+                        "endColumn": 124,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5571,
+                    "endColumn": 192,
+                    "endOffset": 5759
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2048,
+                        "endColumn": 196,
+                        "endOffset": 2240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5764,
+                    "endColumn": 129,
+                    "endOffset": 5889
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1918,
+                        "endColumn": 129,
+                        "endOffset": 2043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5894,
+                    "endColumn": 174,
+                    "endOffset": 6064
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1743,
+                        "endColumn": 174,
+                        "endOffset": 1913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 6069,
+                    "endColumn": 88,
+                    "endOffset": 6153
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3251,
+                        "endColumn": 88,
+                        "endOffset": 3335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 6158,
+                    "endColumn": 89,
+                    "endOffset": 6243
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4136,
+                        "endColumn": 89,
+                        "endOffset": 4221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 6248,
+                    "endColumn": 110,
+                    "endOffset": 6354
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-iw\\base_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4226,
+                        "endColumn": 110,
+                        "endOffset": 4332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 6359,
+                    "endColumn": 104,
+                    "endOffset": 6459
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 104,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 6464,
+                    "endColumn": 104,
+                    "endOffset": 6564
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 104,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 6569,
+                    "endColumn": 99,
+                    "endOffset": 6664
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 99,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6669,
+                    "endColumn": 99,
+                    "endOffset": 6764
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 99,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6769,
+                    "endColumn": 115,
+                    "endOffset": 6880
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endColumn": 115,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6885,
+                    "endColumn": 94,
+                    "endOffset": 6975
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 94,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6980,
+                    "endColumn": 93,
+                    "endOffset": 7069
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endColumn": 93,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 7074,
+                    "endColumn": 115,
+                    "endOffset": 7185
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 115,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 7190,
+                    "endColumn": 99,
+                    "endOffset": 7285
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 99,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 7290,
+                    "endColumn": 84,
+                    "endOffset": 7370
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1209,
+                        "endColumn": 84,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 7375,
+                    "endColumn": 93,
+                    "endOffset": 7464
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 93,
+                        "endOffset": 1383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 7469,
+                    "endColumn": 103,
+                    "endOffset": 7568
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-iw\\location_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 103,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 7573,
+                    "endColumn": 94,
+                    "endOffset": 7663
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-iw\\location_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 94,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 7668,
+                    "endColumn": 102,
+                    "endOffset": 7766
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-iw\\values-iw.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1953,
+                        "endColumn": 102,
+                        "endOffset": 2051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 7771,
+                    "endColumn": 105,
+                    "endOffset": 7872
+                },
+                "from": {
+                    "file": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-iw\\wallet_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

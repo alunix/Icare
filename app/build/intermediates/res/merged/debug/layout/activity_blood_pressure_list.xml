@@ -3,78 +3,96 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
+
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="10dp"
     android:orientation="vertical"
     tools:context="com.warriors.group.icare.BloodPressureListActivity">
 
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="25dp"
         android:orientation="horizontal"
         android:background="#006"
         >
         <!--  Column 1 header -->
         <TextView
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:text="Date"
             android:textColor="#fff"
             android:textStyle="bold"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="2"
+            android:layout_weight="2.5"
             />
         <!--  Column 2 header -->
         <TextView
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:text="Time"
             android:textColor="#fff"
             android:textStyle="bold"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="1.2"
             />
 
         <!--  Column 2 header -->
         <TextView
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:text="SBP"
             android:textColor="#fff"
             android:textStyle="bold"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="1.2"
             />
 
 
         <!--  Column 2 header -->
         <TextView
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:text="DBP"
             android:textColor="#fff"
             android:textStyle="bold"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="1.2"
             />
 
         <!--  Column 2 header -->
         <TextView
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:text="BPM"
             android:textColor="#fff"
             android:textStyle="bold"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="1.2"
             />
 
         <!--  Column 2 header -->
         <TextView
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
             android:text="Notes"
             android:textColor="#fff"
             android:textStyle="bold"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="3"
+            android:layout_weight="2.5"
             />
 
 
