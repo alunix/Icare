@@ -4,16 +4,16 @@
         "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.9\\res\\layout\\material_drawer_item_secondary.xml"
     },
     {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vaccine_list.xml",
+        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\src\\main\\res\\layout\\activity_vaccine_list.xml"
     },
     {
         "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vaccine_list.xml",
-        "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\src\\main\\res\\layout\\activity_vaccine_list.xml"
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
         "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
@@ -48,16 +48,16 @@
         "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\src\\main\\res\\layout\\activity_add_medical_history.xml"
     },
     {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appointment_list_view.xml",
+        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\src\\main\\res\\layout\\appointment_list_view.xml"
     },
     {
         "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\blood_pressurse_listview.xml",
         "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\src\\main\\res\\layout\\blood_pressurse_listview.xml"
     },
     {
-        "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appointment_list_view.xml",
-        "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\src\\main\\res\\layout\\appointment_list_view.xml"
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
         "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
@@ -100,12 +100,12 @@
         "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.9\\res\\layout\\material_drawer_item_mini.xml"
     },
     {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
         "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_medicine_list.xml",
         "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\src\\main\\res\\layout\\activity_medicine_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_secondary_toggle.xml",
@@ -128,12 +128,12 @@
         "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_header.xml"
-    },
-    {
         "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dash_board.xml",
         "source": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\src\\main\\res\\layout\\activity_dash_board.xml"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_navigation_item_header.xml"
     },
     {
         "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
@@ -288,12 +288,12 @@
         "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.9\\res\\layout\\material_drawer_item_mini_profile.xml"
     },
     {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_view.xml"
-    },
-    {
         "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_general_information.xml",
         "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\src\\main\\res\\layout\\activity_general_information.xml"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appointment_list_view.xml",
@@ -484,12 +484,12 @@
         "source": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\src\\main\\res\\layout\\activity_appoinment_list.xml"
     },
     {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
-    },
-    {
         "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_hospital.xml",
         "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\src\\main\\res\\layout\\activity_add_hospital.xml"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
     },
     {
         "merged": "D:\\AndroidProjectbyJewel\\JewelGit\\jewelGit2\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
@@ -512,12 +512,12 @@
         "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_tab_text.xml"
-    },
-    {
         "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
@@ -560,12 +560,12 @@
         "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\exploded-aar\\com.mikepenz\\materialdrawer\\5.0.9\\res\\layout\\material_drawer_fits_not.xml"
     },
     {
-        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
-        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
-    },
-    {
         "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
         "source": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Rubayet\\Downloads\\Compressed\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
         "merged": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
