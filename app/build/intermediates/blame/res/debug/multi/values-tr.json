@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\values-tr\\values-tr.xml",
+        "outputFile": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\values-tr\\values-tr.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 205
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 57,
                         "endColumn": 104,
-                        "endOffset": 155
+                        "endOffset": 157
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 313
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 160,
+                        "startOffset": 163,
                         "endColumn": 107,
-                        "endOffset": 263
+                        "endOffset": 266
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 436
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 268,
+                        "startOffset": 272,
                         "endColumn": 122,
-                        "endOffset": 386
+                        "endOffset": 390
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 535
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 391,
+                        "startOffset": 396,
                         "endColumn": 98,
-                        "endOffset": 485
+                        "endOffset": 490
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 647
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 490,
+                        "startOffset": 496,
                         "endColumn": 111,
-                        "endOffset": 597
+                        "endOffset": 603
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 737
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 602,
+                        "startOffset": 609,
                         "endColumn": 89,
-                        "endOffset": 687
+                        "endOffset": 694
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 843
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 692,
+                        "startOffset": 700,
                         "endColumn": 105,
-                        "endOffset": 793
+                        "endOffset": 801
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 963
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 798,
+                        "startOffset": 807,
                         "endColumn": 119,
-                        "endOffset": 913
+                        "endOffset": 922
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 1042
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 918,
+                        "startOffset": 928,
                         "endColumn": 78,
-                        "endOffset": 992
+                        "endOffset": 1002
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 1118
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 997,
+                        "startOffset": 1008,
                         "endColumn": 75,
-                        "endOffset": 1068
+                        "endOffset": 1079
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 1197
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1073,
+                        "startOffset": 1085,
                         "endColumn": 78,
-                        "endOffset": 1147
+                        "endOffset": 1159
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 1304
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1152,
+                        "startOffset": 1165,
                         "endColumn": 106,
-                        "endOffset": 1254
+                        "endOffset": 1267
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 1409
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1259,
+                        "startOffset": 1273,
                         "endColumn": 104,
-                        "endOffset": 1359
+                        "endOffset": 1373
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 1505
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1364,
+                        "startOffset": 1379,
                         "endColumn": 95,
-                        "endOffset": 1455
+                        "endOffset": 1470
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 1612
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1460,
+                        "startOffset": 1476,
                         "endColumn": 106,
-                        "endOffset": 1562
+                        "endOffset": 1578
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 1714
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1567,
+                        "startOffset": 1584,
                         "endColumn": 101,
-                        "endOffset": 1664
+                        "endOffset": 1681
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 1822
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1669,
+                        "startOffset": 1687,
                         "endColumn": 107,
-                        "endOffset": 1772
+                        "endOffset": 1790
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 1941
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1777,
+                        "startOffset": 1796,
                         "endColumn": 118,
-                        "endOffset": 1891
+                        "endOffset": 1910
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 2039
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1896,
+                        "startOffset": 1916,
                         "endColumn": 97,
-                        "endOffset": 1989
+                        "endOffset": 2009
                     }
                 }
             },
@@ -372,13 +372,13 @@
                     "endOffset": 2310
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 3516,
+                        "startOffset": 3540,
                         "endColumn": 274,
-                        "endOffset": 3786
+                        "endOffset": 3810
                     }
                 }
             },
@@ -391,13 +391,13 @@
                     "endOffset": 2447
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1335,
+                        "startOffset": 1345,
                         "endColumn": 136,
-                        "endOffset": 1467
+                        "endOffset": 1477
                     }
                 }
             },
@@ -410,13 +410,13 @@
                     "endOffset": 2634
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1144,
+                        "startOffset": 1153,
                         "endColumn": 190,
-                        "endOffset": 1330
+                        "endOffset": 1339
                     }
                 }
             },
@@ -429,13 +429,13 @@
                     "endOffset": 2772
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 1006,
+                        "startOffset": 1014,
                         "endColumn": 137,
-                        "endOffset": 1139
+                        "endOffset": 1147
                     }
                 }
             },
@@ -448,13 +448,13 @@
                     "endOffset": 2904
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 874,
+                        "startOffset": 881,
                         "endColumn": 131,
-                        "endOffset": 1001
+                        "endOffset": 1008
                     }
                 }
             },
@@ -467,13 +467,13 @@
                     "endOffset": 3118
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 438,
+                        "startOffset": 443,
                         "endColumn": 217,
-                        "endOffset": 651
+                        "endOffset": 656
                     }
                 }
             },
@@ -486,13 +486,13 @@
                     "endOffset": 3332
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 656,
+                        "startOffset": 662,
                         "endColumn": 217,
-                        "endOffset": 869
+                        "endOffset": 875
                     }
                 }
             },
@@ -505,13 +505,13 @@
                     "endOffset": 3464
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 306,
+                        "startOffset": 310,
                         "endColumn": 131,
-                        "endOffset": 433
+                        "endOffset": 437
                     }
                 }
             },
@@ -524,13 +524,13 @@
                     "endOffset": 3644
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2751,
+                        "startOffset": 2770,
                         "endColumn": 179,
-                        "endOffset": 2926
+                        "endOffset": 2945
                     }
                 }
             },
@@ -543,13 +543,13 @@
                     "endOffset": 3764
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 2631,
+                        "startOffset": 2649,
                         "endColumn": 119,
-                        "endOffset": 2746
+                        "endOffset": 2764
                     }
                 }
             },
@@ -562,13 +562,13 @@
                     "endOffset": 3940
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 2455,
+                        "startOffset": 2472,
                         "endColumn": 175,
-                        "endOffset": 2626
+                        "endOffset": 2643
                     }
                 }
             },
@@ -581,13 +581,13 @@
                     "endOffset": 4056
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 2339,
+                        "startOffset": 2355,
                         "endColumn": 115,
-                        "endOffset": 2450
+                        "endOffset": 2466
                     }
                 }
             },
@@ -600,13 +600,13 @@
                     "endOffset": 4192
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 170,
+                        "startOffset": 173,
                         "endColumn": 135,
-                        "endOffset": 301
+                        "endOffset": 304
                     }
                 }
             },
@@ -619,13 +619,13 @@
                     "endOffset": 4357
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 4225,
+                        "startOffset": 4253,
                         "endColumn": 164,
-                        "endOffset": 4385
+                        "endOffset": 4413
                     }
                 }
             },
@@ -638,13 +638,13 @@
                     "endOffset": 4483
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 4099,
+                        "startOffset": 4126,
                         "endColumn": 125,
-                        "endOffset": 4220
+                        "endOffset": 4247
                     }
                 }
             },
@@ -657,13 +657,13 @@
                     "endOffset": 4667
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 3915,
+                        "startOffset": 3941,
                         "endColumn": 183,
-                        "endOffset": 4094
+                        "endOffset": 4120
                     }
                 }
             },
@@ -676,13 +676,13 @@
                     "endOffset": 4791
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 3791,
+                        "startOffset": 3816,
                         "endColumn": 123,
-                        "endOffset": 3910
+                        "endOffset": 3935
                     }
                 }
             },
@@ -695,13 +695,13 @@
                     "endOffset": 5043
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-tr\\common_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-tr\\common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 170,
+                        "startOffset": 173,
                         "endColumn": 255,
-                        "endOffset": 421
+                        "endOffset": 424
                     }
                 }
             },
@@ -714,13 +714,13 @@
                     "endOffset": 5298
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 3057,
+                        "startOffset": 3078,
                         "endColumn": 258,
-                        "endOffset": 3311
+                        "endOffset": 3332
                     }
                 }
             },
@@ -733,13 +733,13 @@
                     "endOffset": 5424
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2931,
+                        "startOffset": 2951,
                         "endColumn": 125,
-                        "endOffset": 3052
+                        "endOffset": 3072
                     }
                 }
             },
@@ -752,13 +752,13 @@
                     "endOffset": 5533
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 3316,
+                        "startOffset": 3338,
                         "endColumn": 108,
-                        "endOffset": 3420
+                        "endOffset": 3442
                     }
                 }
             },
@@ -771,13 +771,13 @@
                     "endOffset": 5717
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1608,
+                        "startOffset": 1620,
                         "endColumn": 187,
-                        "endOffset": 1791
+                        "endOffset": 1803
                     }
                 }
             },
@@ -790,13 +790,13 @@
                     "endOffset": 5853
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1472,
+                        "startOffset": 1483,
                         "endColumn": 135,
-                        "endOffset": 1603
+                        "endOffset": 1614
                     }
                 }
             },
@@ -809,13 +809,13 @@
                     "endOffset": 6057
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 2131,
+                        "startOffset": 2146,
                         "endColumn": 207,
-                        "endOffset": 2334
+                        "endOffset": 2349
                     }
                 }
             },
@@ -828,13 +828,13 @@
                     "endOffset": 6195
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1993,
+                        "startOffset": 2007,
                         "endColumn": 137,
-                        "endOffset": 2126
+                        "endOffset": 2140
                     }
                 }
             },
@@ -847,13 +847,13 @@
                     "endOffset": 6392
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1796,
+                        "startOffset": 1809,
                         "endColumn": 196,
-                        "endOffset": 1988
+                        "endOffset": 2001
                     }
                 }
             },
@@ -866,13 +866,13 @@
                     "endOffset": 6483
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 3425,
+                        "startOffset": 3448,
                         "endColumn": 90,
-                        "endOffset": 3511
+                        "endOffset": 3534
                     }
                 }
             },
@@ -885,13 +885,13 @@
                     "endOffset": 6577
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 4390,
+                        "startOffset": 4419,
                         "endColumn": 93,
-                        "endOffset": 4479
+                        "endOffset": 4508
                     }
                 }
             },
@@ -904,13 +904,13 @@
                     "endOffset": 6687
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 4484,
+                        "startOffset": 4514,
                         "endColumn": 109,
-                        "endOffset": 4589
+                        "endOffset": 4619
                     }
                 }
             },
@@ -923,13 +923,13 @@
                     "endOffset": 6795
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 278,
+                        "startOffset": 282,
                         "endColumn": 107,
-                        "endOffset": 381
+                        "endOffset": 385
                     }
                 }
             },
@@ -942,13 +942,13 @@
                     "endOffset": 6900
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 386,
+                        "startOffset": 391,
                         "endColumn": 104,
-                        "endOffset": 486
+                        "endOffset": 491
                     }
                 }
             },
@@ -961,13 +961,13 @@
                     "endOffset": 7003
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 491,
+                        "startOffset": 497,
                         "endColumn": 102,
-                        "endOffset": 589
+                        "endOffset": 595
                     }
                 }
             },
@@ -980,13 +980,13 @@
                     "endOffset": 7112
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 594,
+                        "startOffset": 601,
                         "endColumn": 108,
-                        "endOffset": 698
+                        "endOffset": 705
                     }
                 }
             },
@@ -999,13 +999,13 @@
                     "endOffset": 7224
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 703,
+                        "startOffset": 711,
                         "endColumn": 111,
-                        "endOffset": 810
+                        "endOffset": 818
                     }
                 }
             },
@@ -1018,13 +1018,13 @@
                     "endOffset": 7323
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 815,
+                        "startOffset": 824,
                         "endColumn": 98,
-                        "endOffset": 909
+                        "endOffset": 918
                     }
                 }
             },
@@ -1037,13 +1037,13 @@
                     "endOffset": 7418
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 914,
+                        "startOffset": 924,
                         "endColumn": 94,
-                        "endOffset": 1004
+                        "endOffset": 1014
                     }
                 }
             },
@@ -1056,13 +1056,13 @@
                     "endOffset": 7536
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1009,
+                        "startOffset": 1020,
                         "endColumn": 117,
-                        "endOffset": 1122
+                        "endOffset": 1133
                     }
                 }
             },
@@ -1075,13 +1075,13 @@
                     "endOffset": 7639
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1127,
+                        "startOffset": 1139,
                         "endColumn": 102,
-                        "endOffset": 1225
+                        "endOffset": 1237
                     }
                 }
             },
@@ -1094,13 +1094,13 @@
                     "endOffset": 7725
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1230,
+                        "startOffset": 1243,
                         "endColumn": 85,
-                        "endOffset": 1311
+                        "endOffset": 1324
                     }
                 }
             },
@@ -1113,13 +1113,13 @@
                     "endOffset": 7820
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1316,
+                        "startOffset": 1330,
                         "endColumn": 94,
-                        "endOffset": 1406
+                        "endOffset": 1420
                     }
                 }
             },
@@ -1132,13 +1132,13 @@
                     "endOffset": 7926
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-tr\\location_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-tr\\location_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 323,
+                        "startOffset": 329,
                         "endColumn": 105,
-                        "endOffset": 424
+                        "endOffset": 430
                     }
                 }
             },
@@ -1151,13 +1151,13 @@
                     "endOffset": 8019
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-tr\\location_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-tr\\location_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 230,
+                        "startOffset": 235,
                         "endColumn": 92,
-                        "endOffset": 318
+                        "endOffset": 323
                     }
                 }
             },
@@ -1170,13 +1170,13 @@
                     "endOffset": 8120
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1994,
+                        "startOffset": 2015,
                         "endColumn": 100,
-                        "endOffset": 2090
+                        "endOffset": 2111
                     }
                 }
             },
@@ -1189,13 +1189,13 @@
                     "endOffset": 8229
                 },
                 "from": {
-                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-tr\\wallet_strings.xml",
+                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-tr\\wallet_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 230,
+                        "startOffset": 235,
                         "endColumn": 108,
-                        "endOffset": 334
+                        "endOffset": 339
                     }
                 }
             }
@@ -3606,7 +3606,7 @@
         ]
     },
     {
-        "outputFile": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\values-tr\\values-tr.xml",
+        "outputFile": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\res\\merged\\debug\\values-tr\\values-tr.xml",
         "map": [
             {
                 "to": {
@@ -3617,13 +3617,13 @@
                     "endOffset": 205
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 57,
+                        "startOffset": 55,
                         "endColumn": 104,
-                        "endOffset": 157
+                        "endOffset": 155
                     }
                 }
             },
@@ -3636,13 +3636,13 @@
                     "endOffset": 313
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 163,
+                        "startOffset": 160,
                         "endColumn": 107,
-                        "endOffset": 266
+                        "endOffset": 263
                     }
                 }
             },
@@ -3655,13 +3655,13 @@
                     "endOffset": 436
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 272,
+                        "startOffset": 268,
                         "endColumn": 122,
-                        "endOffset": 390
+                        "endOffset": 386
                     }
                 }
             },
@@ -3674,13 +3674,13 @@
                     "endOffset": 535
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 396,
+                        "startOffset": 391,
                         "endColumn": 98,
-                        "endOffset": 490
+                        "endOffset": 485
                     }
                 }
             },
@@ -3693,13 +3693,13 @@
                     "endOffset": 647
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 496,
+                        "startOffset": 490,
                         "endColumn": 111,
-                        "endOffset": 603
+                        "endOffset": 597
                     }
                 }
             },
@@ -3712,13 +3712,13 @@
                     "endOffset": 737
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 609,
+                        "startOffset": 602,
                         "endColumn": 89,
-                        "endOffset": 694
+                        "endOffset": 687
                     }
                 }
             },
@@ -3731,13 +3731,13 @@
                     "endOffset": 843
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 700,
+                        "startOffset": 692,
                         "endColumn": 105,
-                        "endOffset": 801
+                        "endOffset": 793
                     }
                 }
             },
@@ -3750,13 +3750,13 @@
                     "endOffset": 963
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 807,
+                        "startOffset": 798,
                         "endColumn": 119,
-                        "endOffset": 922
+                        "endOffset": 913
                     }
                 }
             },
@@ -3769,13 +3769,13 @@
                     "endOffset": 1042
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 928,
+                        "startOffset": 918,
                         "endColumn": 78,
-                        "endOffset": 1002
+                        "endOffset": 992
                     }
                 }
             },
@@ -3788,13 +3788,13 @@
                     "endOffset": 1118
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1008,
+                        "startOffset": 997,
                         "endColumn": 75,
-                        "endOffset": 1079
+                        "endOffset": 1068
                     }
                 }
             },
@@ -3807,13 +3807,13 @@
                     "endOffset": 1197
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1085,
+                        "startOffset": 1073,
                         "endColumn": 78,
-                        "endOffset": 1159
+                        "endOffset": 1147
                     }
                 }
             },
@@ -3826,13 +3826,13 @@
                     "endOffset": 1304
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1165,
+                        "startOffset": 1152,
                         "endColumn": 106,
-                        "endOffset": 1267
+                        "endOffset": 1254
                     }
                 }
             },
@@ -3845,13 +3845,13 @@
                     "endOffset": 1409
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1273,
+                        "startOffset": 1259,
                         "endColumn": 104,
-                        "endOffset": 1373
+                        "endOffset": 1359
                     }
                 }
             },
@@ -3864,13 +3864,13 @@
                     "endOffset": 1505
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1379,
+                        "startOffset": 1364,
                         "endColumn": 95,
-                        "endOffset": 1470
+                        "endOffset": 1455
                     }
                 }
             },
@@ -3883,13 +3883,13 @@
                     "endOffset": 1612
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1476,
+                        "startOffset": 1460,
                         "endColumn": 106,
-                        "endOffset": 1578
+                        "endOffset": 1562
                     }
                 }
             },
@@ -3902,13 +3902,13 @@
                     "endOffset": 1714
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1584,
+                        "startOffset": 1567,
                         "endColumn": 101,
-                        "endOffset": 1681
+                        "endOffset": 1664
                     }
                 }
             },
@@ -3921,13 +3921,13 @@
                     "endOffset": 1822
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1687,
+                        "startOffset": 1669,
                         "endColumn": 107,
-                        "endOffset": 1790
+                        "endOffset": 1772
                     }
                 }
             },
@@ -3940,13 +3940,13 @@
                     "endOffset": 1941
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1796,
+                        "startOffset": 1777,
                         "endColumn": 118,
-                        "endOffset": 1910
+                        "endOffset": 1891
                     }
                 }
             },
@@ -3959,13 +3959,13 @@
                     "endOffset": 2039
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1916,
+                        "startOffset": 1896,
                         "endColumn": 97,
-                        "endOffset": 2009
+                        "endOffset": 1989
                     }
                 }
             },
@@ -3978,13 +3978,13 @@
                     "endOffset": 2310
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 3540,
+                        "startOffset": 3516,
                         "endColumn": 274,
-                        "endOffset": 3810
+                        "endOffset": 3786
                     }
                 }
             },
@@ -3997,13 +3997,13 @@
                     "endOffset": 2447
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1345,
+                        "startOffset": 1335,
                         "endColumn": 136,
-                        "endOffset": 1477
+                        "endOffset": 1467
                     }
                 }
             },
@@ -4016,13 +4016,13 @@
                     "endOffset": 2634
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1153,
+                        "startOffset": 1144,
                         "endColumn": 190,
-                        "endOffset": 1339
+                        "endOffset": 1330
                     }
                 }
             },
@@ -4035,13 +4035,13 @@
                     "endOffset": 2772
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 1014,
+                        "startOffset": 1006,
                         "endColumn": 137,
-                        "endOffset": 1147
+                        "endOffset": 1139
                     }
                 }
             },
@@ -4054,13 +4054,13 @@
                     "endOffset": 2904
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 881,
+                        "startOffset": 874,
                         "endColumn": 131,
-                        "endOffset": 1008
+                        "endOffset": 1001
                     }
                 }
             },
@@ -4073,13 +4073,13 @@
                     "endOffset": 3118
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 443,
+                        "startOffset": 438,
                         "endColumn": 217,
-                        "endOffset": 656
+                        "endOffset": 651
                     }
                 }
             },
@@ -4092,13 +4092,13 @@
                     "endOffset": 3332
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 662,
+                        "startOffset": 656,
                         "endColumn": 217,
-                        "endOffset": 875
+                        "endOffset": 869
                     }
                 }
             },
@@ -4111,13 +4111,13 @@
                     "endOffset": 3464
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 310,
+                        "startOffset": 306,
                         "endColumn": 131,
-                        "endOffset": 437
+                        "endOffset": 433
                     }
                 }
             },
@@ -4130,13 +4130,13 @@
                     "endOffset": 3644
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2770,
+                        "startOffset": 2751,
                         "endColumn": 179,
-                        "endOffset": 2945
+                        "endOffset": 2926
                     }
                 }
             },
@@ -4149,13 +4149,13 @@
                     "endOffset": 3764
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 2649,
+                        "startOffset": 2631,
                         "endColumn": 119,
-                        "endOffset": 2764
+                        "endOffset": 2746
                     }
                 }
             },
@@ -4168,13 +4168,13 @@
                     "endOffset": 3940
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 2472,
+                        "startOffset": 2455,
                         "endColumn": 175,
-                        "endOffset": 2643
+                        "endOffset": 2626
                     }
                 }
             },
@@ -4187,13 +4187,13 @@
                     "endOffset": 4056
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 2355,
+                        "startOffset": 2339,
                         "endColumn": 115,
-                        "endOffset": 2466
+                        "endOffset": 2450
                     }
                 }
             },
@@ -4206,13 +4206,13 @@
                     "endOffset": 4192
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 173,
+                        "startOffset": 170,
                         "endColumn": 135,
-                        "endOffset": 304
+                        "endOffset": 301
                     }
                 }
             },
@@ -4225,13 +4225,13 @@
                     "endOffset": 4357
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 4253,
+                        "startOffset": 4225,
                         "endColumn": 164,
-                        "endOffset": 4413
+                        "endOffset": 4385
                     }
                 }
             },
@@ -4244,13 +4244,13 @@
                     "endOffset": 4483
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 4126,
+                        "startOffset": 4099,
                         "endColumn": 125,
-                        "endOffset": 4247
+                        "endOffset": 4220
                     }
                 }
             },
@@ -4263,13 +4263,13 @@
                     "endOffset": 4667
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 3941,
+                        "startOffset": 3915,
                         "endColumn": 183,
-                        "endOffset": 4120
+                        "endOffset": 4094
                     }
                 }
             },
@@ -4282,13 +4282,13 @@
                     "endOffset": 4791
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 3816,
+                        "startOffset": 3791,
                         "endColumn": 123,
-                        "endOffset": 3935
+                        "endOffset": 3910
                     }
                 }
             },
@@ -4301,13 +4301,13 @@
                     "endOffset": 5043
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-tr\\common_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-tr\\common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 173,
+                        "startOffset": 170,
                         "endColumn": 255,
-                        "endOffset": 424
+                        "endOffset": 421
                     }
                 }
             },
@@ -4320,13 +4320,13 @@
                     "endOffset": 5298
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 3078,
+                        "startOffset": 3057,
                         "endColumn": 258,
-                        "endOffset": 3332
+                        "endOffset": 3311
                     }
                 }
             },
@@ -4339,13 +4339,13 @@
                     "endOffset": 5424
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2951,
+                        "startOffset": 2931,
                         "endColumn": 125,
-                        "endOffset": 3072
+                        "endOffset": 3052
                     }
                 }
             },
@@ -4358,13 +4358,13 @@
                     "endOffset": 5533
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 3338,
+                        "startOffset": 3316,
                         "endColumn": 108,
-                        "endOffset": 3442
+                        "endOffset": 3420
                     }
                 }
             },
@@ -4377,13 +4377,13 @@
                     "endOffset": 5717
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1620,
+                        "startOffset": 1608,
                         "endColumn": 187,
-                        "endOffset": 1803
+                        "endOffset": 1791
                     }
                 }
             },
@@ -4396,13 +4396,13 @@
                     "endOffset": 5853
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1483,
+                        "startOffset": 1472,
                         "endColumn": 135,
-                        "endOffset": 1614
+                        "endOffset": 1603
                     }
                 }
             },
@@ -4415,13 +4415,13 @@
                     "endOffset": 6057
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 2146,
+                        "startOffset": 2131,
                         "endColumn": 207,
-                        "endOffset": 2349
+                        "endOffset": 2334
                     }
                 }
             },
@@ -4434,13 +4434,13 @@
                     "endOffset": 6195
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 2007,
+                        "startOffset": 1993,
                         "endColumn": 137,
-                        "endOffset": 2140
+                        "endOffset": 2126
                     }
                 }
             },
@@ -4453,13 +4453,13 @@
                     "endOffset": 6392
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1809,
+                        "startOffset": 1796,
                         "endColumn": 196,
-                        "endOffset": 2001
+                        "endOffset": 1988
                     }
                 }
             },
@@ -4472,13 +4472,13 @@
                     "endOffset": 6483
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 3448,
+                        "startOffset": 3425,
                         "endColumn": 90,
-                        "endOffset": 3534
+                        "endOffset": 3511
                     }
                 }
             },
@@ -4491,13 +4491,13 @@
                     "endOffset": 6577
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 4419,
+                        "startOffset": 4390,
                         "endColumn": 93,
-                        "endOffset": 4508
+                        "endOffset": 4479
                     }
                 }
             },
@@ -4510,13 +4510,13 @@
                     "endOffset": 6687
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-tr\\base_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 4514,
+                        "startOffset": 4484,
                         "endColumn": 109,
-                        "endOffset": 4619
+                        "endOffset": 4589
                     }
                 }
             },
@@ -4529,13 +4529,13 @@
                     "endOffset": 6795
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 282,
+                        "startOffset": 278,
                         "endColumn": 107,
-                        "endOffset": 385
+                        "endOffset": 381
                     }
                 }
             },
@@ -4548,13 +4548,13 @@
                     "endOffset": 6900
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 391,
+                        "startOffset": 386,
                         "endColumn": 104,
-                        "endOffset": 491
+                        "endOffset": 486
                     }
                 }
             },
@@ -4567,13 +4567,13 @@
                     "endOffset": 7003
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 497,
+                        "startOffset": 491,
                         "endColumn": 102,
-                        "endOffset": 595
+                        "endOffset": 589
                     }
                 }
             },
@@ -4586,13 +4586,13 @@
                     "endOffset": 7112
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 601,
+                        "startOffset": 594,
                         "endColumn": 108,
-                        "endOffset": 705
+                        "endOffset": 698
                     }
                 }
             },
@@ -4605,13 +4605,13 @@
                     "endOffset": 7224
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 711,
+                        "startOffset": 703,
                         "endColumn": 111,
-                        "endOffset": 818
+                        "endOffset": 810
                     }
                 }
             },
@@ -4624,13 +4624,13 @@
                     "endOffset": 7323
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 824,
+                        "startOffset": 815,
                         "endColumn": 98,
-                        "endOffset": 918
+                        "endOffset": 909
                     }
                 }
             },
@@ -4643,13 +4643,13 @@
                     "endOffset": 7418
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 924,
+                        "startOffset": 914,
                         "endColumn": 94,
-                        "endOffset": 1014
+                        "endOffset": 1004
                     }
                 }
             },
@@ -4662,13 +4662,13 @@
                     "endOffset": 7536
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1020,
+                        "startOffset": 1009,
                         "endColumn": 117,
-                        "endOffset": 1133
+                        "endOffset": 1122
                     }
                 }
             },
@@ -4681,13 +4681,13 @@
                     "endOffset": 7639
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1139,
+                        "startOffset": 1127,
                         "endColumn": 102,
-                        "endOffset": 1237
+                        "endOffset": 1225
                     }
                 }
             },
@@ -4700,13 +4700,13 @@
                     "endOffset": 7725
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1243,
+                        "startOffset": 1230,
                         "endColumn": 85,
-                        "endOffset": 1324
+                        "endOffset": 1311
                     }
                 }
             },
@@ -4719,13 +4719,13 @@
                     "endOffset": 7820
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1330,
+                        "startOffset": 1316,
                         "endColumn": 94,
-                        "endOffset": 1420
+                        "endOffset": 1406
                     }
                 }
             },
@@ -4738,13 +4738,13 @@
                     "endOffset": 7926
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-tr\\location_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-tr\\location_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 329,
+                        "startOffset": 323,
                         "endColumn": 105,
-                        "endOffset": 430
+                        "endOffset": 424
                     }
                 }
             },
@@ -4757,13 +4757,13 @@
                     "endOffset": 8019
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-tr\\location_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-tr\\location_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 235,
+                        "startOffset": 230,
                         "endColumn": 92,
-                        "endOffset": 323
+                        "endOffset": 318
                     }
                 }
             },
@@ -4776,13 +4776,13 @@
                     "endOffset": 8120
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-tr\\values-tr.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2015,
+                        "startOffset": 1994,
                         "endColumn": 100,
-                        "endOffset": 2111
+                        "endOffset": 2090
                     }
                 }
             },
@@ -4795,13 +4795,13 @@
                     "endOffset": 8229
                 },
                 "from": {
-                    "file": "F:\\Android_Project\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-tr\\wallet_strings.xml",
+                    "file": "D:\\AndroidProjectbyJewel\\iCareFor_DigitalWomenChalange\\jewelUpdate\\Icare\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-tr\\wallet_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 235,
+                        "startOffset": 230,
                         "endColumn": 108,
-                        "endOffset": 339
+                        "endOffset": 334
                     }
                 }
             }

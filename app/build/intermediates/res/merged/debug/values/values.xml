@@ -829,7 +829,7 @@
     <string name="add_doctor">Add Doctor</string>
     <string name="add_hospital">Add Hospital</string>
     <string name="add_medical_history">Add Medical History</string>
-    <string name="add_medicine_dose">Add Medicine Dose</string>
+    <string name="add_medicine_dose">Add Prescription</string>
     <string name="add_profile">Add Profile</string>
     <string name="add_profile_menu">ADD PROFILE</string>
     <string name="add_vaccination">Add Vaccination</string>
@@ -1011,7 +1011,7 @@
     <string name="title_activity_general_information">General Information</string>
     <string name="title_activity_hospital_list">Hospital List</string>
     <string name="title_activity_maps">Map</string>
-    <string name="title_activity_medical_history_list">Medical HistoryList</string>
+    <string name="title_activity_medical_history_list">Prescriptions</string>
     <string name="title_activity_medicine_list">Medicine List</string>
     <string name="title_activity_profile_list">Profile List</string>
     <string name="title_activity_vaccine_list">Vaccine List</string>

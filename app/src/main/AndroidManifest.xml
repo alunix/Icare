@@ -124,10 +124,14 @@
         <activity
             android:name=".AppointmentDetailsActivity"
             android:label="Appointment Details" />
-        <activity android:name=".AddBloodPressureActivity" />
-        <activity android:name=".AddBloodSugarActivity" />
-        <activity android:name=".BloodPressureListActivity" />
-        <activity android:name=".BloodSugarListActivity"></activity>
+        <activity android:name=".AddBloodPressureActivity"
+            android:label="Add BloodPressure"/>
+        <activity android:name=".AddBloodSugarActivity"
+            android:label="Add BloodSugar"/>
+        <activity android:name=".BloodPressureListActivity"
+            android:label="Blood Pressure"/>
+        <activity android:name=".BloodSugarListActivity"
+            android:label="Blood Sugar"/>
     </application>
 
 </manifest>

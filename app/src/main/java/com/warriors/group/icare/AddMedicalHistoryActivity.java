@@ -93,7 +93,7 @@ public class AddMedicalHistoryActivity extends AppCompatActivity implements View
         else
         {
             ActionBar actionBar = getSupportActionBar();
-            actionBar.setTitle("Update Medical History");
+            actionBar.setTitle("Update Presription");
             saveBtn.setText("UPDATE");
             id = Integer.valueOf(medical_history_id_update);
             showDataforUpdate();

@@ -137,10 +137,18 @@
         <activity
             android:name="com.warriors.group.icare.AppointmentDetailsActivity"
             android:label="Appointment Details" />
-        <activity android:name="com.warriors.group.icare.AddBloodPressureActivity" />
-        <activity android:name="com.warriors.group.icare.AddBloodSugarActivity" />
-        <activity android:name="com.warriors.group.icare.BloodPressureListActivity" />
-        <activity android:name="com.warriors.group.icare.BloodSugarListActivity" />
+        <activity
+            android:name="com.warriors.group.icare.AddBloodPressureActivity"
+            android:label="Add BloodPressure" />
+        <activity
+            android:name="com.warriors.group.icare.AddBloodSugarActivity"
+            android:label="Add BloodSugar" />
+        <activity
+            android:name="com.warriors.group.icare.BloodPressureListActivity"
+            android:label="Blood Pressure" />
+        <activity
+            android:name="com.warriors.group.icare.BloodSugarListActivity"
+            android:label="Blood Sugar" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

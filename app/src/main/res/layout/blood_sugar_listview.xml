@@ -1,6 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
+    android:paddingTop="2dp"
     android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:orientation="horizontal"
+        android:background="#47c713"
+        >
+        <!--  Column 1 header -->
+        <TextView
+            android:id="@+id/BSDateTV"
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:hint="Date"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            />
+        <!--  Column 2 header -->
+        <TextView
+            android:id="@+id/BSTimeTV"
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:hint="Time"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.6"
+            />
+
+        <!--  Column 2 header -->
+        <TextView
+            android:id="@+id/BSLevelTV"
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:hint="Sugar Level"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            />
+
+
+        <!--  Column 2 header -->
+
+
+        <!--  Column 2 header -->
+        <TextView
+            android:id="@+id/BSNotesTV"
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:hint="Notes"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2.5"
+            />
+
+
+    </LinearLayout>
+
 
 </LinearLayout>

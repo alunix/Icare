@@ -15,7 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="25dp"
         android:orientation="horizontal"
-        android:background="#006"
+        android:background="#47c713"
         >
         <!--  Column 1 header -->
         <TextView

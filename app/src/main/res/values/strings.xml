@@ -48,7 +48,7 @@
     <string name="add_appointment">Add Appointment</string>
 
 
-    <string name="add_medicine_dose">Add Medicine Dose</string>
+    <string name="add_medicine_dose">Add Prescription</string>
     <string name="medicine_name">Medicine Name</string>
     <string name="medicine_dose">Medicine Dose</string>
     <string name="medicine_period_m">Morning</string>
@@ -64,7 +64,7 @@
     <string name="title_activity_general_information">General Information</string>
     <string name="title_activity_diet_list">Diet List</string>
     <string name="title_activity_vaccine_list">Vaccine List</string>
-    <string name="title_activity_medical_history_list">Medical HistoryList</string>
+    <string name="title_activity_medical_history_list">Prescriptions</string>
     <string name="title_activity_doctors_list">Doctors List</string>
     <string name="title_activity_medicine_list">Medicine List</string>
     <string name="profilenid">National ID/Birth Certificate No</string>

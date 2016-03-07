@@ -1573,8 +1573,6 @@ public class DataStorage {
 
     }
 
-
-
     public boolean deleteBloodPressure (int bpId, String flag )
     {
         this.dbOpen();
@@ -1592,8 +1590,6 @@ public class DataStorage {
         }
 
     }
-
-
 
     public ArrayList<BloodPressureModel> getBloodPressureByProfileId(String profileID) {
 
@@ -1743,6 +1739,75 @@ public class DataStorage {
             return false;
         }
 
+    }
+
+    public ArrayList<BloodSugarModel> getBloodSugarByProfileId(String profileID) {
+
+        ArrayList<BloodSugarModel> bloodSugarModels = new ArrayList<>();
+
+        this.dbOpen();
+
+        String selectQuery = "SELECT  * FROM " + DBHelper.TABLE_NAME_BLOOD_SUGAR + " WHERE " +
+                DBHelper.BLOOD_SUGAR_COL_PERSON_ID + "='" + profileID + "'  AND "+
+                DBHelper.COL_FLAG + "='A'" + " order by "+ DBHelper.BLOOD_SUGAR_COL_DATE + ", "+ DBHelper.BLOOD_SUGAR_COL_TIME + " desc";
+
+        Cursor cursor = database.rawQuery(selectQuery, null);
+        if (cursor!=null && cursor.getCount()>0){
+
+            cursor.moveToFirst();
+
+            for (int i=0; i<cursor.getCount(); i++){
+                int bsId = cursor.getInt(cursor.getColumnIndex(DBHelper.BLOOD_SUGAR_COL_ID));
+                String bsDate = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_SUGAR_COL_DATE));
+                String bsTime = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_SUGAR_COL_TIME));
+                String bsLevel = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_SUGAR_COL_LEVEL));
+                String bsNote = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_SUGAR_COL_NOTES));
+                String flag = cursor.getString(cursor.getColumnIndex(DBHelper.COL_FLAG));
+                String personId=cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_SUGAR_COL_PERSON_ID));
+
+                BloodSugarModel bloodSugarModel = new BloodSugarModel(bsId,bsDate,bsTime,bsLevel,bsNote,flag,personId);
+                bloodSugarModels.add(bloodSugarModel);
+                cursor.moveToNext();
+            }
+        }
+        database.close();
+        this.dbClose();
+        return bloodSugarModels;
+    }
+
+    public ArrayList<BloodSugarModel> getBloodSugarBybsId(int bsId1) {
+
+        ArrayList<BloodSugarModel> bloodSugarModels = new ArrayList<>();
+
+        this.dbOpen();
+
+        String selectQuery = "SELECT  * FROM " + DBHelper.TABLE_NAME_BLOOD_SUGAR + " WHERE " +
+                DBHelper.BLOOD_SUGAR_COL_ID + " = " + bsId1 ;
+
+        /*String selectQuery = "SELECT  * FROM " + DBHelper.TABLE_NAME_DOCTOR + " WHERE " +
+                DBHelper.DOCTOR_COL_ID + " = '" + doctorID + "' AND "+DBHelper.COL_FLAG + "='A'" ;*/
+        Cursor cursor = database.rawQuery(selectQuery, null);
+        if (cursor!=null && cursor.getCount()>0){
+
+            cursor.moveToFirst();
+
+            for (int i=0; i<cursor.getCount(); i++){
+                int bsId = cursor.getInt(cursor.getColumnIndex(DBHelper.BLOOD_SUGAR_COL_ID));
+                String bsDate = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_SUGAR_COL_DATE));
+                String bsTime = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_SUGAR_COL_TIME));
+                String bsLevel = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_SUGAR_COL_LEVEL));
+                String bsNote = cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_SUGAR_COL_NOTES));
+                String flag = cursor.getString(cursor.getColumnIndex(DBHelper.COL_FLAG));
+                String personId=cursor.getString(cursor.getColumnIndex(DBHelper.BLOOD_SUGAR_COL_PERSON_ID));
+
+                BloodSugarModel bloodSugarModel = new BloodSugarModel(bsId,bsDate,bsTime,bsLevel,bsNote,flag,personId);
+                bloodSugarModels.add(bloodSugarModel);
+                cursor.moveToNext();
+            }
+        }
+        database.close();
+        this.dbClose();
+        return bloodSugarModels;
     }
 
 
