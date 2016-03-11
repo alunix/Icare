@@ -13,13 +13,24 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.Toast;
 
+import com.github.mikephil.charting.charts.BarChart;
+import com.github.mikephil.charting.components.LimitLine;
+import com.github.mikephil.charting.components.YAxis;
+import com.github.mikephil.charting.data.BarData;
+import com.github.mikephil.charting.data.BarDataSet;
+import com.github.mikephil.charting.data.BarEntry;
+import com.github.mikephil.charting.data.Entry;
+import com.github.mikephil.charting.highlight.Highlight;
+import com.github.mikephil.charting.listener.OnChartValueSelectedListener;
+import com.github.mikephil.charting.utils.ColorTemplate;
+
 import java.util.ArrayList;
 
 import adapter.BloodPressureListAdapter;
 import database.DataStorage;
 import model.BloodPressureModel;
 
-public class BloodPressureListActivity extends AppCompatActivity {
+public class BloodPressureListActivity extends AppCompatActivity implements OnChartValueSelectedListener {
     SharedPreferences preferences;
     SharedPreferences preferences1;
     String personID;
@@ -27,6 +38,9 @@ public class BloodPressureListActivity extends AppCompatActivity {
     ArrayList<BloodPressureModel> bloodPressureModels = new ArrayList<>();
     DataStorage dataStorage;
     ListView bpListView;
+
+
+    protected BarChart mChart;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,18 +53,44 @@ public class BloodPressureListActivity extends AppCompatActivity {
         personID =preferences.getString("person_id", "");
 
         bpListView= (ListView) findViewById(R.id.bplistview);
-
+        //graphOfbp();
         showBloodPressure();
 
+
+
+        mChart = (BarChart) findViewById(R.id.chart1);
+        mChart.setOnChartValueSelectedListener(this);
+
+        mChart.setDrawBarShadow(false);
+        mChart.setDrawValueAboveBar(true);
+
+        mChart.setDescription("");
+
+        // if more than 60 entries are displayed in the chart, no values will be
+        // drawn
+        mChart.setMaxVisibleValueCount(60);
+
+        // scaling can now only be done on x- and y-axis separately
+        mChart.setPinchZoom(false);
+
+        mChart.setDrawGridBackground(false);
+        addData();
+
     }
+
 
 
     private void showBloodPressure(){
 
         bloodPressureModels = dataStorage.getBloodPressureByProfileId(personID);
+
         BloodPressureListAdapter bloodPressureListAdapter = new BloodPressureListAdapter(BloodPressureListActivity.this, bloodPressureModels);
         bpListView.setAdapter(bloodPressureListAdapter);
         bloodPressureListAdapter.notifyDataSetChanged();
+
+
+
+
 
 
 
@@ -122,6 +162,7 @@ public class BloodPressureListActivity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
         showBloodPressure();
+        //graphOfbp();
 
     }
 
@@ -154,4 +195,45 @@ public class BloodPressureListActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+    @Override
+    public void onValueSelected(Entry e, int dataSetIndex, Highlight h) {
+
+    }
+
+    @Override
+    public void onNothingSelected() {
+
+    }
+
+    private void addData(){
+
+        ArrayList<BarEntry> yVals = new ArrayList<BarEntry>();
+
+        for (int i = 0; i < dataStorage.queryYData(personID).size(); i++)
+            yVals.add(new BarEntry(dataStorage.queryYData(personID).get(i), i));
+
+        ArrayList<String> xVals = new ArrayList<String>();
+        for(int i = 0; i < dataStorage.queryXData(personID).size(); i++)
+            xVals.add(dataStorage.queryXData(personID).get(i));
+
+        BarDataSet dataSet = new BarDataSet(yVals, "expense values");
+        dataSet.setColors(ColorTemplate.COLORFUL_COLORS);
+
+        BarData data = new BarData(xVals, dataSet);
+
+
+        LimitLine line = new LimitLine(12f, "average daily expense");
+        line.setTextSize(12f);
+        line.setLineWidth(4f);
+        YAxis leftAxis = mChart.getAxisLeft();
+        leftAxis.addLimitLine(line);
+
+        mChart.setData(data);
+        mChart.setDescription("The expenses chart.");
+        mChart.animateY(2000);
+
+    }
+
+
 }

@@ -1665,6 +1665,48 @@ public class DataStorage {
     }
 
 
+    public ArrayList<String> queryXData(String profileID){
+        ArrayList<String> xNewData = new ArrayList<String>();
+
+        this.dbOpen();
+
+        String selectQuery = "SELECT  bpDate FROM " + DBHelper.TABLE_NAME_BLOOD_PRESSURE + " WHERE " +
+                DBHelper.BLOOD_PRESSURE_COL_PERSON_ID + "='" + profileID + "'  AND "+
+                DBHelper.COL_FLAG + "='A'" + " order by "+ DBHelper.BLOOD_PRESSURE_COL_DATE + ", "+ DBHelper.BLOOD_PRESSURE_COL_TIME + " desc";
+
+        Cursor cursor = database.rawQuery(selectQuery, null);
+
+        //String query = "SELECT " + DAILY_DATE + " FROM " + TABLE_DAILY_FRAG;
+        //Cursor cursor = mSQLiteDatabase.rawQuery(query, null);
+        for (cursor.moveToFirst(); !cursor.isAfterLast(); cursor.moveToNext()) {
+            xNewData.add(cursor.getString(cursor.getColumnIndex("bpDate")));
+        }
+        cursor.close();
+        return xNewData;
+    }
+
+    public ArrayList<Float> queryYData(String profileID){
+        ArrayList<Float> yNewData = new ArrayList<Float>();
+
+
+
+        this.dbOpen();
+
+        String selectQuery = "SELECT  bpSBP FROM " + DBHelper.TABLE_NAME_BLOOD_PRESSURE + " WHERE " +
+                DBHelper.BLOOD_PRESSURE_COL_PERSON_ID + "='" + profileID + "'  AND "+
+                DBHelper.COL_FLAG + "='A'" + " order by "+ DBHelper.BLOOD_PRESSURE_COL_DATE + ", "+ DBHelper.BLOOD_PRESSURE_COL_TIME + " desc";
+
+        Cursor cursor = database.rawQuery(selectQuery, null);
+
+        for (cursor.moveToFirst(); !cursor.isAfterLast(); cursor.moveToNext()) {
+            yNewData.add(cursor.getFloat(cursor.getColumnIndex("bpSBP")));
+        }
+        cursor.close();
+        return yNewData;
+    }
+
+
+
 //------------------------------------------------------------------------------------------------//
 
 
